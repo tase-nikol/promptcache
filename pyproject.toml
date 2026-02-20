@@ -3,7 +3,7 @@ requires = ["hatchling>=1.21.0"]
 build-backend = "hatchling.build"
 
 [project]
-name = "promptcache"
+name = "promptcache-ai"
 version = "0.1.0"
 description = "Semantic similarity cache for LLM responses (Redis backend, TTL, cost tracking)."
 readme = "README.md"

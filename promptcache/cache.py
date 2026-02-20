@@ -12,7 +12,7 @@ from .embedders.base import Embedder
 from .backends.base import VectorBackend
 
 import redis
- 
+
 
 class SemanticCache:
     def __init__(
