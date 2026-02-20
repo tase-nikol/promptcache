@@ -128,8 +128,7 @@ class RedisVectorBackend(VectorBackend):
 
         idx = self._index_name(namespace)
         qvec = _vec_to_bytes(vector)
-        print(1, idx, qvec)
-        print(2, tags)
+
         # Filter by tags (exact match)
         filters = []
         for field, val in tags.items():
@@ -152,11 +151,11 @@ class RedisVectorBackend(VectorBackend):
             "RETURN", "7", "text", "meta_json", "tokens_in", "tokens_out", "cost_usd", "created_at_unix", "dist",
             "DIALECT", "2",
         )
-        print(3, res)
+
         # res format: [count, key1, [field, value, ...], key2, [...], ...]
         if not res or res[0] == 0:
             return None, []
-        print(res)
+
         cands: List[Candidate] = []
         for i in range(1, len(res), 2):
             raw_key = res[i]
@@ -191,7 +190,6 @@ class RedisVectorBackend(VectorBackend):
                 created_at_unix=_parse_int(d["created_at_unix"]),
             )
             cands.append(cand)
-        print("REDIS CANDIDATES:", cands)
 
         filtered = []
         for cand in cands:
@@ -204,7 +202,6 @@ class RedisVectorBackend(VectorBackend):
                 filtered.append(cand)
 
         best = filtered[0] if filtered else None
-        print("BEST:", best)
         return best, filtered
 
     def _escape_tag(self, value: str) -> str:

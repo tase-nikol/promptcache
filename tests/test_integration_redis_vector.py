@@ -8,6 +8,7 @@ from promptcache.types import CacheMeta
 
 
 @pytest.mark.skipif(os.environ.get("REDIS_URL") is None, reason="Set REDIS_URL to run integration test")
+@pytest.mark.integration
 def test_redis_vector_backend_hit():
     embedder = FakeSemanticEmbedder()
     backend = RedisVectorBackend(url=os.environ["REDIS_URL"], dim=embedder.dim)
