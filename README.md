@@ -156,12 +156,12 @@ Installation
 ---------------
 
 ```bash
-pip install promptcache
+pip install promptcache-ai
 ```
 
 Optional OpenAI embedder:
 ```bash
-pip install promptcache[openai]
+pip install promptcache-ai[openai]
 ```
 
 * * * * *
@@ -174,10 +174,7 @@ PromptCache requires **Redis Stack** (RediSearch with vector support).
 Run locally:
 
 ```bash
-docker run -d\
-  --name redis-stack\
-  -p 6379:6379\
-  redis/redis-stack:latest`
+docker run -d --name redis-stack -p 6379:6379 redis/redis-stack:latest
 ```
 Verify:
 
