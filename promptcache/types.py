@@ -23,3 +23,4 @@ class CacheResult(BaseModel):
     cost_usd: Optional[float] = None
 
     created_at_unix: Optional[int] = None
+    matched_meta: Optional[Dict[str, Any]] = None

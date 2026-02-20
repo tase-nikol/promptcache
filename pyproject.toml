@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "promptcache-ai"
-version = "0.1.5"
+version = "0.2.0"
 description = "Semantic similarity cache for LLM responses (Redis backend, TTL, cost tracking)."
 readme = "README.md"
 requires-python = ">=3.10"
@@ -17,7 +17,6 @@ dependencies = [
   "pydantic>=2.6",
 ]
 
-
 [project.urls]
 Repository = "https://github.com/tase-nikol/promptcache"
 
@@ -29,6 +28,11 @@ dev = [
   "ruff>=0.6.0",
   "mypy>=1.8",
   "types-redis>=4.6.0.20241004",
+]
+bench = [
+  "sentence-transformers>=2.6.0",
+  "tiktoken>=0.7.0",
+  "matplotlib>=3.8.0",
 ]
 
 [tool.ruff]

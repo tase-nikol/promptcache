@@ -69,6 +69,7 @@ class RedisVectorBackend(VectorBackend):
             "model", "TAG",
             "ctx_hash", "TAG",
             "embedder", "TAG",
+            "intent_id", "TAG"
         ]
 
         self._r.execute_command(
@@ -109,6 +110,7 @@ class RedisVectorBackend(VectorBackend):
         payload["model"] = tags.get("model", "")
         payload["ctx_hash"] = tags.get("ctx_hash", "")
         payload["embedder"] = tags.get("embedder", "")
+        payload["intent_id"] = tags.get("intent_id", "")
 
         # HSET + EXPIRE
         pipe = self._r.pipeline()
@@ -140,8 +142,7 @@ class RedisVectorBackend(VectorBackend):
 
         # KNN query
         # Returns __embedding_score as distance; for COSINE distance lower is better.
-        # query = f"{base})=>[KNN {k} @embedding $vec AS dist]"
-        query = f"(*)=>[KNN {k} @embedding $vec AS dist]"
+        query = f"({base})=>[KNN {k} @embedding $vec AS dist]"
 
         res = self._r.execute_command(
             "FT.SEARCH", idx,
@@ -205,9 +206,7 @@ class RedisVectorBackend(VectorBackend):
         return best, filtered
 
     def _escape_tag(self, value: str) -> str:
-        # Only escape backslash and curly braces
-        return (
-            value.replace("\\", "\\\\")
-            .replace("{", "\\{")
-            .replace("}", "\\}")
-        )
+        special = r'@{}[]():|"- '
+        for ch in special:
+            value = value.replace(ch, f"\\{ch}")
+        return value

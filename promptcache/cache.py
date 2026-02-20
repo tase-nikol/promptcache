@@ -11,7 +11,6 @@ from .cost import CostTracker
 from .embedders.base import Embedder
 from .backends.base import VectorBackend
 
-import redis
 
 
 class SemanticCache:
@@ -27,6 +26,7 @@ class SemanticCache:
         cost_tracker: Optional[CostTracker] = None,
         min_prompt_length: int = 16,
         max_answer_chars: int = 50_000,
+        use_intent_isolation: bool = True
     ):
         self.backend = backend
         self.embedder = embedder
@@ -39,6 +39,7 @@ class SemanticCache:
         self.max_answer_chars = int(max_answer_chars)
         self._hits = 0
         self._misses = 0
+        self.use_intent_isolation = use_intent_isolation
 
     def _build_cache_text(self, prompt: str, meta: CacheMeta) -> str:
         # Include system prompt into semantic key by default (safer)
@@ -81,7 +82,13 @@ class SemanticCache:
             "embedder": getattr(self.embedder, "name", "unknown"),
         }
 
+        if self.use_intent_isolation:
+            intent_id = meta.extra.get("intent_id", "unknown")
+            if intent_id:
+                tags["intent_id"] = intent_id
+
         best, _ = self.backend.query(namespace=self.namespace, vector=vec, k=self.k, tags=tags) # nearest neighbors
+
         if best is not None and best.similarity >= self.threshold:
             self._hits += 1
 
@@ -94,6 +101,7 @@ class SemanticCache:
                 tokens_out=best.tokens_out,
                 cost_usd=best.cost_usd,
                 created_at_unix=best.created_at_unix,
+                matched_meta=best.meta,
             )
 
         # Miss: call LLM
