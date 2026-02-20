@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "promptcache-ai"
-version = "0.1.0"
+version = "0.1.5"
 description = "Semantic similarity cache for LLM responses (Redis backend, TTL, cost tracking)."
 readme = "README.md"
 requires-python = ">=3.10"
