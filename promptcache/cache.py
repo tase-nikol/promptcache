@@ -12,9 +12,7 @@ from .embedders.base import Embedder
 from .backends.base import VectorBackend
 
 import redis
-
-r = redis.Redis(host="localhost", port=6379)
-print(r.execute_command("MODULE", "LIST"))
+ 
 
 class SemanticCache:
     def __init__(
