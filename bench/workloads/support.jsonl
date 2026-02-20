@@ -1,0 +1,1000 @@
+{"workload": "support", "intent_id": "refund_policy_0010", "prompt": "What is your refund policy?"}
+{"workload": "support", "intent_id": "invoice_download_0031", "prompt": "I need my invoice PDF"}
+{"workload": "support", "intent_id": "refund_policy_0014", "prompt": "Can I get a refund?"}
+{"workload": "support", "intent_id": "account_delete_0030", "prompt": "Can you erase my account please?"}
+{"workload": "support", "intent_id": "refund_policy_0121", "prompt": "Hey, Do you offer refunds for subscriptions please?"}
+{"workload": "support", "intent_id": "change_plan_0137", "prompt": "How do I change my subscription plan?"}
+{"workload": "support", "intent_id": "invoice_download_0009", "prompt": "How do I access billing invoices please?"}
+{"workload": "support", "intent_id": "refund_policy_0127", "prompt": "Can I get a refund?"}
+{"workload": "support", "intent_id": "account_delete_0006", "prompt": "Close my account permanently please?"}
+{"workload": "support", "intent_id": "invoice_download_0044", "prompt": "I need my invoice PDF"}
+{"workload": "support", "intent_id": "refund_policy_0079", "prompt": "Hey, How do refunds work please?"}
+{"workload": "support", "intent_id": "invoice_download_0098", "prompt": "Hey, Can I get an invoice for last month please?"}
+{"workload": "support", "intent_id": "password_reset_0002", "prompt": "Hey, Help me change my account password"}
+{"workload": "support", "intent_id": "password_reset_0117", "prompt": "Hey, Password reset steps?"}
+{"workload": "support", "intent_id": "invoice_download_0122", "prompt": "Where do I find invoices please?"}
+{"workload": "support", "intent_id": "password_reset_0114", "prompt": "How to reset my login password?"}
+{"workload": "support", "intent_id": "password_reset_0190", "prompt": "Help me change my account password"}
+{"workload": "support", "intent_id": "invoice_download_0044", "prompt": "Can I get an invoice for last month please?"}
+{"workload": "support", "intent_id": "invoice_download_0171", "prompt": "How can I download my invoice please?"}
+{"workload": "support", "intent_id": "password_reset_0094", "prompt": "How to reset my login password?"}
+{"workload": "support", "intent_id": "refund_policy_0014", "prompt": "Hey, Refund rules and timeline?"}
+{"workload": "support", "intent_id": "refund_policy_0179", "prompt": "Do you offer refunds for subscriptions?"}
+{"workload": "support", "intent_id": "change_plan_0097", "prompt": "How do I change my subscription plan?"}
+{"workload": "support", "intent_id": "account_delete_0021", "prompt": "Close my account permanently"}
+{"workload": "support", "intent_id": "account_delete_0185", "prompt": "Hey, How do I delete my account please?"}
+{"workload": "support", "intent_id": "password_reset_0168", "prompt": "How to reset my login password?"}
+{"workload": "support", "intent_id": "refund_policy_0120", "prompt": "Do you offer refunds for subscriptions?"}
+{"workload": "support", "intent_id": "change_plan_0091", "prompt": "Downgrade subscription"}
+{"workload": "support", "intent_id": "refund_policy_0192", "prompt": "Hey, What is your refund policy?"}
+{"workload": "support", "intent_id": "invoice_download_0196", "prompt": "I need my invoice PDF"}
+{"workload": "support", "intent_id": "change_plan_0128", "prompt": "Downgrade subscription please?"}
+{"workload": "support", "intent_id": "invoice_download_0068", "prompt": "Hey, How do I access billing invoices?"}
+{"workload": "support", "intent_id": "change_plan_0137", "prompt": "Downgrade subscription"}
+{"workload": "support", "intent_id": "invoice_download_0159", "prompt": "How can I download my invoice?"}
+{"workload": "support", "intent_id": "password_reset_0077", "prompt": "Password reset steps please?"}
+{"workload": "support", "intent_id": "password_reset_0183", "prompt": "How to reset my login password?"}
+{"workload": "support", "intent_id": "invoice_download_0122", "prompt": "How do I access billing invoices?"}
+{"workload": "support", "intent_id": "change_plan_0137", "prompt": "Change pricing tier please?"}
+{"workload": "support", "intent_id": "invoice_download_0026", "prompt": "Where do I find invoices?"}
+{"workload": "support", "intent_id": "password_reset_0070", "prompt": "How to reset my login password please?"}
+{"workload": "support", "intent_id": "refund_policy_0010", "prompt": "Refund rules and timeline please?"}
+{"workload": "support", "intent_id": "change_plan_0013", "prompt": "Upgrade my plan"}
+{"workload": "support", "intent_id": "refund_policy_0019", "prompt": "Refund rules and timeline?"}
+{"workload": "support", "intent_id": "password_reset_0103", "prompt": "How to reset my login password?"}
+{"workload": "support", "intent_id": "refund_policy_0156", "prompt": "Hey, What is your refund policy please?"}
+{"workload": "support", "intent_id": "account_delete_0151", "prompt": "Can you erase my account?"}
+{"workload": "support", "intent_id": "change_plan_0007", "prompt": "Hey, Switch to annual billing"}
+{"workload": "support", "intent_id": "change_plan_0071", "prompt": "Change pricing tier"}
+{"workload": "support", "intent_id": "password_reset_0168", "prompt": "Hey, Help me change my account password please?"}
+{"workload": "support", "intent_id": "account_delete_0165", "prompt": "Delete account steps"}
+{"workload": "support", "intent_id": "account_delete_0093", "prompt": "How do I delete my account?"}
+{"workload": "support", "intent_id": "account_delete_0193", "prompt": "Remove my profile"}
+{"workload": "support", "intent_id": "invoice_download_0028", "prompt": "I need my invoice PDF"}
+{"workload": "support", "intent_id": "account_delete_0023", "prompt": "Hey, Delete account steps"}
+{"workload": "support", "intent_id": "refund_policy_0147", "prompt": "Hey, How do refunds work please?"}
+{"workload": "support", "intent_id": "change_plan_0181", "prompt": "Switch to annual billing"}
+{"workload": "support", "intent_id": "account_delete_0095", "prompt": "Hey, Remove my profile please?"}
+{"workload": "support", "intent_id": "refund_policy_0073", "prompt": "Hey, Do you offer refunds for subscriptions?"}
+{"workload": "support", "intent_id": "refund_policy_0047", "prompt": "Can I get a refund?"}
+{"workload": "support", "intent_id": "account_delete_0057", "prompt": "Close my account permanently"}
+{"workload": "support", "intent_id": "refund_policy_0004", "prompt": "Do you offer refunds for subscriptions please?"}
+{"workload": "support", "intent_id": "change_plan_0194", "prompt": "Switch to annual billing please?"}
+{"workload": "support", "intent_id": "refund_policy_0126", "prompt": "Can I get a refund please?"}
+{"workload": "support", "intent_id": "account_delete_0021", "prompt": "Remove my profile"}
+{"workload": "support", "intent_id": "refund_policy_0120", "prompt": "Refund rules and timeline please?"}
+{"workload": "support", "intent_id": "invoice_download_0005", "prompt": "Where do I find invoices please?"}
+{"workload": "support", "intent_id": "password_reset_0003", "prompt": "How to reset my login password?"}
+{"workload": "support", "intent_id": "account_delete_0095", "prompt": "Hey, Close my account permanently please?"}
+{"workload": "support", "intent_id": "account_delete_0078", "prompt": "Hey, How do I delete my account please?"}
+{"workload": "support", "intent_id": "refund_policy_0179", "prompt": "Hey, How do refunds work please?"}
+{"workload": "support", "intent_id": "password_reset_0153", "prompt": "How do I reset my password?"}
+{"workload": "support", "intent_id": "invoice_download_0133", "prompt": "Can I get an invoice for last month?"}
+{"workload": "support", "intent_id": "invoice_download_0139", "prompt": "Hey, Can I get an invoice for last month?"}
+{"workload": "support", "intent_id": "refund_policy_0084", "prompt": "Refund rules and timeline?"}
+{"workload": "support", "intent_id": "refund_policy_0192", "prompt": "Refund rules and timeline?"}
+{"workload": "support", "intent_id": "account_delete_0102", "prompt": "Delete account steps please?"}
+{"workload": "support", "intent_id": "account_delete_0102", "prompt": "How do I delete my account?"}
+{"workload": "support", "intent_id": "account_delete_0021", "prompt": "Hey, How do I delete my account please?"}
+{"workload": "support", "intent_id": "invoice_download_0106", "prompt": "I need my invoice PDF"}
+{"workload": "support", "intent_id": "change_plan_0160", "prompt": "Upgrade my plan"}
+{"workload": "support", "intent_id": "account_delete_0162", "prompt": "Hey, Can you erase my account?"}
+{"workload": "support", "intent_id": "invoice_download_0177", "prompt": "Where do I find invoices?"}
+{"workload": "support", "intent_id": "password_reset_0184", "prompt": "Hey, I forgot my password. What can I do?"}
+{"workload": "support", "intent_id": "change_plan_0027", "prompt": "Change pricing tier"}
+{"workload": "support", "intent_id": "password_reset_0034", "prompt": "How do I reset my password please?"}
+{"workload": "support", "intent_id": "password_reset_0112", "prompt": "How to reset my login password please?"}
+{"workload": "support", "intent_id": "account_delete_0155", "prompt": "How do I delete my account please?"}
+{"workload": "support", "intent_id": "change_plan_0063", "prompt": "How do I change my subscription plan please?"}
+{"workload": "support", "intent_id": "refund_policy_0010", "prompt": "Do you offer refunds for subscriptions?"}
+{"workload": "support", "intent_id": "refund_policy_0037", "prompt": "What is your refund policy please?"}
+{"workload": "support", "intent_id": "refund_policy_0079", "prompt": "Do you offer refunds for subscriptions?"}
+{"workload": "support", "intent_id": "refund_policy_0169", "prompt": "Can I get a refund?"}
+{"workload": "support", "intent_id": "invoice_download_0140", "prompt": "I need my invoice PDF"}
+{"workload": "support", "intent_id": "account_delete_0162", "prompt": "Remove my profile please?"}
+{"workload": "support", "intent_id": "invoice_download_0096", "prompt": "Where do I find invoices?"}
+{"workload": "support", "intent_id": "password_reset_0114", "prompt": "Hey, I forgot my password. What can I do?"}
+{"workload": "support", "intent_id": "refund_policy_0016", "prompt": "Hey, Do you offer refunds for subscriptions please?"}
+{"workload": "support", "intent_id": "password_reset_0059", "prompt": "How to reset my login password?"}
+{"workload": "support", "intent_id": "refund_policy_0019", "prompt": "Hey, What is your refund policy?"}
+{"workload": "support", "intent_id": "account_delete_0093", "prompt": "Can you erase my account?"}
+{"workload": "support", "intent_id": "password_reset_0187", "prompt": "How do I reset my password?"}
+{"workload": "support", "intent_id": "invoice_download_0005", "prompt": "I need my invoice PDF"}
+{"workload": "support", "intent_id": "invoice_download_0000", "prompt": "Can I get an invoice for last month?"}
+{"workload": "support", "intent_id": "change_plan_0076", "prompt": "Upgrade my plan"}
+{"workload": "support", "intent_id": "invoice_download_0028", "prompt": "Hey, How do I access billing invoices?"}
+{"workload": "support", "intent_id": "password_reset_0035", "prompt": "Hey, I forgot my password. What can I do?"}
+{"workload": "support", "intent_id": "account_delete_0093", "prompt": "Hey, Delete account steps"}
+{"workload": "support", "intent_id": "change_plan_0076", "prompt": "Downgrade subscription"}
+{"workload": "support", "intent_id": "change_plan_0061", "prompt": "How do I change my subscription plan please?"}
+{"workload": "support", "intent_id": "invoice_download_0123", "prompt": "How do I access billing invoices?"}
+{"workload": "support", "intent_id": "refund_policy_0136", "prompt": "How do refunds work?"}
+{"workload": "support", "intent_id": "password_reset_0166", "prompt": "How to reset my login password?"}
+{"workload": "support", "intent_id": "refund_policy_0039", "prompt": "Hey, Refund rules and timeline please?"}
+{"workload": "support", "intent_id": "change_plan_0065", "prompt": "How do I change my subscription plan please?"}
+{"workload": "support", "intent_id": "account_delete_0108", "prompt": "Remove my profile"}
+{"workload": "support", "intent_id": "invoice_download_0022", "prompt": "I need my invoice PDF"}
+{"workload": "support", "intent_id": "password_reset_0109", "prompt": "Hey, How do I reset my password?"}
+{"workload": "support", "intent_id": "change_plan_0097", "prompt": "Change pricing tier please?"}
+{"workload": "support", "intent_id": "refund_policy_0001", "prompt": "Refund rules and timeline?"}
+{"workload": "support", "intent_id": "password_reset_0110", "prompt": "How do I reset my password?"}
+{"workload": "support", "intent_id": "refund_policy_0124", "prompt": "What is your refund policy?"}
+{"workload": "support", "intent_id": "refund_policy_0156", "prompt": "Refund rules and timeline?"}
+{"workload": "support", "intent_id": "password_reset_0033", "prompt": "I forgot my password. What can I do?"}
+{"workload": "support", "intent_id": "password_reset_0166", "prompt": "Help me change my account password"}
+{"workload": "support", "intent_id": "refund_policy_0079", "prompt": "What is your refund policy?"}
+{"workload": "support", "intent_id": "invoice_download_0090", "prompt": "Where do I find invoices?"}
+{"workload": "support", "intent_id": "refund_policy_0025", "prompt": "How do refunds work?"}
+{"workload": "support", "intent_id": "account_delete_0042", "prompt": "Can you erase my account?"}
+{"workload": "support", "intent_id": "account_delete_0099", "prompt": "Can you erase my account?"}
+{"workload": "support", "intent_id": "change_plan_0119", "prompt": "How do I change my subscription plan?"}
+{"workload": "support", "intent_id": "invoice_download_0044", "prompt": "How can I download my invoice please?"}
+{"workload": "support", "intent_id": "invoice_download_0170", "prompt": "How can I download my invoice please?"}
+{"workload": "support", "intent_id": "change_plan_0188", "prompt": "Hey, Change pricing tier"}
+{"workload": "support", "intent_id": "account_delete_0185", "prompt": "Hey, Remove my profile please?"}
+{"workload": "support", "intent_id": "account_delete_0198", "prompt": "How do I delete my account?"}
+{"workload": "support", "intent_id": "invoice_download_0058", "prompt": "How do I access billing invoices?"}
+{"workload": "support", "intent_id": "invoice_download_0096", "prompt": "Can I get an invoice for last month?"}
+{"workload": "support", "intent_id": "refund_policy_0163", "prompt": "Do you offer refunds for subscriptions please?"}
+{"workload": "support", "intent_id": "invoice_download_0106", "prompt": "Where do I find invoices?"}
+{"workload": "support", "intent_id": "change_plan_0175", "prompt": "Change pricing tier"}
+{"workload": "support", "intent_id": "account_delete_0107", "prompt": "Close my account permanently please?"}
+{"workload": "support", "intent_id": "change_plan_0013", "prompt": "How do I change my subscription plan please?"}
+{"workload": "support", "intent_id": "change_plan_0132", "prompt": "How do I change my subscription plan?"}
+{"workload": "support", "intent_id": "invoice_download_0068", "prompt": "How can I download my invoice please?"}
+{"workload": "support", "intent_id": "invoice_download_0058", "prompt": "Where do I find invoices?"}
+{"workload": "support", "intent_id": "account_delete_0100", "prompt": "Hey, Delete account steps"}
+{"workload": "support", "intent_id": "change_plan_0062", "prompt": "Change pricing tier please?"}
+{"workload": "support", "intent_id": "invoice_download_0096", "prompt": "How do I access billing invoices please?"}
+{"workload": "support", "intent_id": "refund_policy_0149", "prompt": "Hey, What is your refund policy?"}
+{"workload": "support", "intent_id": "account_delete_0023", "prompt": "Can you erase my account please?"}
+{"workload": "support", "intent_id": "invoice_download_0096", "prompt": "I need my invoice PDF"}
+{"workload": "support", "intent_id": "account_delete_0193", "prompt": "How do I delete my account?"}
+{"workload": "support", "intent_id": "invoice_download_0032", "prompt": "Hey, How do I access billing invoices?"}
+{"workload": "support", "intent_id": "password_reset_0178", "prompt": "How to reset my login password?"}
+{"workload": "support", "intent_id": "invoice_download_0031", "prompt": "Where do I find invoices?"}
+{"workload": "support", "intent_id": "change_plan_0181", "prompt": "Downgrade subscription please?"}
+{"workload": "support", "intent_id": "invoice_download_0090", "prompt": "Hey, I need my invoice PDF"}
+{"workload": "support", "intent_id": "refund_policy_0080", "prompt": "What is your refund policy?"}
+{"workload": "support", "intent_id": "change_plan_0040", "prompt": "Switch to annual billing"}
+{"workload": "support", "intent_id": "refund_policy_0092", "prompt": "Can I get a refund?"}
+{"workload": "support", "intent_id": "password_reset_0103", "prompt": "Password reset steps please?"}
+{"workload": "support", "intent_id": "refund_policy_0043", "prompt": "Can I get a refund?"}
+{"workload": "support", "intent_id": "account_delete_0182", "prompt": "Delete account steps"}
+{"workload": "support", "intent_id": "invoice_download_0015", "prompt": "Can I get an invoice for last month?"}
+{"workload": "support", "intent_id": "invoice_download_0074", "prompt": "Hey, Can I get an invoice for last month?"}
+{"workload": "support", "intent_id": "password_reset_0125", "prompt": "Hey, Help me change my account password"}
+{"workload": "support", "intent_id": "account_delete_0078", "prompt": "Close my account permanently please?"}
+{"workload": "support", "intent_id": "account_delete_0030", "prompt": "How do I delete my account?"}
+{"workload": "support", "intent_id": "refund_policy_0085", "prompt": "What is your refund policy please?"}
+{"workload": "support", "intent_id": "account_delete_0198", "prompt": "Close my account permanently"}
+{"workload": "support", "intent_id": "refund_policy_0046", "prompt": "Hey, What is your refund policy please?"}
+{"workload": "support", "intent_id": "password_reset_0183", "prompt": "I forgot my password. What can I do please?"}
+{"workload": "support", "intent_id": "refund_policy_0136", "prompt": "Can I get a refund?"}
+{"workload": "support", "intent_id": "account_delete_0151", "prompt": "Delete account steps please?"}
+{"workload": "support", "intent_id": "account_delete_0078", "prompt": "Delete account steps please?"}
+{"workload": "support", "intent_id": "invoice_download_0066", "prompt": "Can I get an invoice for last month please?"}
+{"workload": "support", "intent_id": "account_delete_0143", "prompt": "Hey, Can you erase my account?"}
+{"workload": "support", "intent_id": "refund_policy_0121", "prompt": "Hey, How do refunds work?"}
+{"workload": "support", "intent_id": "account_delete_0006", "prompt": "Can you erase my account?"}
+{"workload": "support", "intent_id": "invoice_download_0159", "prompt": "Where do I find invoices please?"}
+{"workload": "support", "intent_id": "account_delete_0042", "prompt": "Remove my profile"}
+{"workload": "support", "intent_id": "change_plan_0076", "prompt": "How do I change my subscription plan?"}
+{"workload": "support", "intent_id": "account_delete_0182", "prompt": "Close my account permanently"}
+{"workload": "support", "intent_id": "password_reset_0142", "prompt": "Hey, Help me change my account password please?"}
+{"workload": "support", "intent_id": "invoice_download_0138", "prompt": "How can I download my invoice?"}
+{"workload": "support", "intent_id": "account_delete_0186", "prompt": "Delete account steps"}
+{"workload": "support", "intent_id": "refund_policy_0189", "prompt": "Can I get a refund please?"}
+{"workload": "support", "intent_id": "change_plan_0176", "prompt": "Upgrade my plan"}
+{"workload": "support", "intent_id": "password_reset_0166", "prompt": "How do I reset my password?"}
+{"workload": "support", "intent_id": "password_reset_0150", "prompt": "Password reset steps please?"}
+{"workload": "support", "intent_id": "password_reset_0153", "prompt": "I forgot my password. What can I do please?"}
+{"workload": "support", "intent_id": "refund_policy_0064", "prompt": "Hey, Do you offer refunds for subscriptions please?"}
+{"workload": "support", "intent_id": "account_delete_0174", "prompt": "Close my account permanently please?"}
+{"workload": "support", "intent_id": "invoice_download_0138", "prompt": "I need my invoice PDF please?"}
+{"workload": "support", "intent_id": "password_reset_0125", "prompt": "I forgot my password. What can I do?"}
+{"workload": "support", "intent_id": "password_reset_0172", "prompt": "Hey, Help me change my account password"}
+{"workload": "support", "intent_id": "password_reset_0112", "prompt": "Help me change my account password"}
+{"workload": "support", "intent_id": "refund_policy_0088", "prompt": "How do refunds work?"}
+{"workload": "support", "intent_id": "password_reset_0089", "prompt": "Password reset steps please?"}
+{"workload": "support", "intent_id": "change_plan_0083", "prompt": "Hey, Change pricing tier"}
+{"workload": "support", "intent_id": "refund_policy_0037", "prompt": "Refund rules and timeline?"}
+{"workload": "support", "intent_id": "password_reset_0184", "prompt": "Password reset steps?"}
+{"workload": "support", "intent_id": "password_reset_0167", "prompt": "Hey, Help me change my account password please?"}
+{"workload": "support", "intent_id": "password_reset_0166", "prompt": "Hey, I forgot my password. What can I do?"}
+{"workload": "support", "intent_id": "refund_policy_0081", "prompt": "Can I get a refund?"}
+{"workload": "support", "intent_id": "refund_policy_0080", "prompt": "Can I get a refund?"}
+{"workload": "support", "intent_id": "refund_policy_0047", "prompt": "Hey, Do you offer refunds for subscriptions?"}
+{"workload": "support", "intent_id": "invoice_download_0159", "prompt": "How do I access billing invoices?"}
+{"workload": "support", "intent_id": "refund_policy_0126", "prompt": "Refund rules and timeline?"}
+{"workload": "support", "intent_id": "change_plan_0130", "prompt": "Hey, How do I change my subscription plan?"}
+{"workload": "support", "intent_id": "password_reset_0190", "prompt": "How to reset my login password?"}
+{"workload": "support", "intent_id": "refund_policy_0014", "prompt": "How do refunds work?"}
+{"workload": "support", "intent_id": "change_plan_0105", "prompt": "Switch to annual billing"}
+{"workload": "support", "intent_id": "password_reset_0148", "prompt": "I forgot my password. What can I do?"}
+{"workload": "support", "intent_id": "password_reset_0110", "prompt": "Help me change my account password"}
+{"workload": "support", "intent_id": "change_plan_0180", "prompt": "Change pricing tier"}
+{"workload": "support", "intent_id": "change_plan_0054", "prompt": "Switch to annual billing please?"}
+{"workload": "support", "intent_id": "invoice_download_0032", "prompt": "I need my invoice PDF"}
+{"workload": "support", "intent_id": "password_reset_0089", "prompt": "How to reset my login password?"}
+{"workload": "support", "intent_id": "account_delete_0146", "prompt": "How do I delete my account?"}
+{"workload": "support", "intent_id": "change_plan_0063", "prompt": "Hey, Switch to annual billing"}
+{"workload": "support", "intent_id": "invoice_download_0074", "prompt": "I need my invoice PDF please?"}
+{"workload": "support", "intent_id": "password_reset_0150", "prompt": "How do I reset my password?"}
+{"workload": "support", "intent_id": "invoice_download_0028", "prompt": "Can I get an invoice for last month?"}
+{"workload": "support", "intent_id": "password_reset_0112", "prompt": "Password reset steps please?"}
+{"workload": "support", "intent_id": "password_reset_0094", "prompt": "I forgot my password. What can I do please?"}
+{"workload": "support", "intent_id": "password_reset_0166", "prompt": "Hey, Password reset steps?"}
+{"workload": "support", "intent_id": "change_plan_0029", "prompt": "Switch to annual billing"}
+{"workload": "support", "intent_id": "account_delete_0146", "prompt": "Can you erase my account?"}
+{"workload": "support", "intent_id": "change_plan_0029", "prompt": "Upgrade my plan"}
+{"workload": "support", "intent_id": "account_delete_0173", "prompt": "Remove my profile"}
+{"workload": "support", "intent_id": "account_delete_0102", "prompt": "Can you erase my account?"}
+{"workload": "support", "intent_id": "invoice_download_0053", "prompt": "How can I download my invoice?"}
+{"workload": "support", "intent_id": "change_plan_0091", "prompt": "Hey, Switch to annual billing"}
+{"workload": "support", "intent_id": "change_plan_0097", "prompt": "Switch to annual billing"}
+{"workload": "support", "intent_id": "change_plan_0152", "prompt": "How do I change my subscription plan?"}
+{"workload": "support", "intent_id": "refund_policy_0064", "prompt": "Can I get a refund?"}
+{"workload": "support", "intent_id": "invoice_download_0068", "prompt": "I need my invoice PDF please?"}
+{"workload": "support", "intent_id": "account_delete_0099", "prompt": "How do I delete my account?"}
+{"workload": "support", "intent_id": "password_reset_0034", "prompt": "I forgot my password. What can I do?"}
+{"workload": "support", "intent_id": "password_reset_0142", "prompt": "How to reset my login password please?"}
+{"workload": "support", "intent_id": "change_plan_0060", "prompt": "How do I change my subscription plan?"}
+{"workload": "support", "intent_id": "account_delete_0104", "prompt": "Hey, Delete account steps"}
+{"workload": "support", "intent_id": "password_reset_0150", "prompt": "How to reset my login password?"}
+{"workload": "support", "intent_id": "invoice_download_0031", "prompt": "How can I download my invoice?"}
+{"workload": "support", "intent_id": "change_plan_0097", "prompt": "Upgrade my plan"}
+{"workload": "support", "intent_id": "refund_policy_0192", "prompt": "How do refunds work please?"}
+{"workload": "support", "intent_id": "account_delete_0186", "prompt": "Remove my profile"}
+{"workload": "support", "intent_id": "password_reset_0129", "prompt": "How to reset my login password?"}
+{"workload": "support", "intent_id": "refund_policy_0075", "prompt": "Refund rules and timeline?"}
+{"workload": "support", "intent_id": "refund_policy_0050", "prompt": "Do you offer refunds for subscriptions please?"}
+{"workload": "support", "intent_id": "change_plan_0160", "prompt": "How do I change my subscription plan?"}
+{"workload": "support", "intent_id": "password_reset_0148", "prompt": "How to reset my login password?"}
+{"workload": "support", "intent_id": "change_plan_0131", "prompt": "How do I change my subscription plan?"}
+{"workload": "support", "intent_id": "refund_policy_0191", "prompt": "How do refunds work?"}
+{"workload": "support", "intent_id": "refund_policy_0189", "prompt": "Refund rules and timeline?"}
+{"workload": "support", "intent_id": "account_delete_0185", "prompt": "Can you erase my account please?"}
+{"workload": "support", "intent_id": "refund_policy_0039", "prompt": "Hey, Do you offer refunds for subscriptions?"}
+{"workload": "support", "intent_id": "change_plan_0137", "prompt": "Hey, Upgrade my plan please?"}
+{"workload": "support", "intent_id": "password_reset_0089", "prompt": "Help me change my account password"}
+{"workload": "support", "intent_id": "refund_policy_0047", "prompt": "Refund rules and timeline?"}
+{"workload": "support", "intent_id": "invoice_download_0053", "prompt": "How do I access billing invoices please?"}
+{"workload": "support", "intent_id": "account_delete_0108", "prompt": "Delete account steps"}
+{"workload": "support", "intent_id": "account_delete_0021", "prompt": "Delete account steps"}
+{"workload": "support", "intent_id": "invoice_download_0177", "prompt": "Hey, How do I access billing invoices please?"}
+{"workload": "support", "intent_id": "refund_policy_0149", "prompt": "Hey, Refund rules and timeline?"}
+{"workload": "support", "intent_id": "invoice_download_0139", "prompt": "How do I access billing invoices please?"}
+{"workload": "support", "intent_id": "invoice_download_0022", "prompt": "How can I download my invoice please?"}
+{"workload": "support", "intent_id": "password_reset_0033", "prompt": "Help me change my account password"}
+{"workload": "support", "intent_id": "change_plan_0083", "prompt": "Downgrade subscription"}
+{"workload": "support", "intent_id": "invoice_download_0055", "prompt": "How do I access billing invoices?"}
+{"workload": "support", "intent_id": "refund_policy_0092", "prompt": "Refund rules and timeline please?"}
+{"workload": "support", "intent_id": "change_plan_0194", "prompt": "Downgrade subscription"}
+{"workload": "support", "intent_id": "change_plan_0118", "prompt": "How do I change my subscription plan?"}
+{"workload": "support", "intent_id": "invoice_download_0133", "prompt": "I need my invoice PDF"}
+{"workload": "support", "intent_id": "refund_policy_0016", "prompt": "Can I get a refund?"}
+{"workload": "support", "intent_id": "password_reset_0190", "prompt": "Password reset steps?"}
+{"workload": "support", "intent_id": "account_delete_0108", "prompt": "How do I delete my account?"}
+{"workload": "support", "intent_id": "password_reset_0112", "prompt": "How do I reset my password please?"}
+{"workload": "support", "intent_id": "password_reset_0134", "prompt": "Password reset steps?"}
+{"workload": "support", "intent_id": "password_reset_0003", "prompt": "Help me change my account password please?"}
+{"workload": "support", "intent_id": "refund_policy_0101", "prompt": "Hey, What is your refund policy?"}
+{"workload": "support", "intent_id": "change_plan_0135", "prompt": "Upgrade my plan"}
+{"workload": "support", "intent_id": "change_plan_0051", "prompt": "Upgrade my plan"}
+{"workload": "support", "intent_id": "change_plan_0060", "prompt": "Downgrade subscription"}
+{"workload": "support", "intent_id": "change_plan_0188", "prompt": "Downgrade subscription"}
+{"workload": "support", "intent_id": "invoice_download_0087", "prompt": "How can I download my invoice please?"}
+{"workload": "support", "intent_id": "account_delete_0174", "prompt": "Delete account steps"}
+{"workload": "support", "intent_id": "change_plan_0131", "prompt": "Downgrade subscription"}
+{"workload": "support", "intent_id": "invoice_download_0045", "prompt": "I need my invoice PDF"}
+{"workload": "support", "intent_id": "change_plan_0027", "prompt": "Hey, Downgrade subscription please?"}
+{"workload": "support", "intent_id": "invoice_download_0055", "prompt": "How can I download my invoice?"}
+{"workload": "support", "intent_id": "password_reset_0167", "prompt": "How to reset my login password?"}
+{"workload": "support", "intent_id": "password_reset_0114", "prompt": "Help me change my account password please?"}
+{"workload": "support", "intent_id": "invoice_download_0139", "prompt": "Where do I find invoices?"}
+{"workload": "support", "intent_id": "password_reset_0110", "prompt": "I forgot my password. What can I do please?"}
+{"workload": "support", "intent_id": "account_delete_0078", "prompt": "Remove my profile"}
+{"workload": "support", "intent_id": "invoice_download_0015", "prompt": "Where do I find invoices?"}
+{"workload": "support", "intent_id": "password_reset_0125", "prompt": "How to reset my login password?"}
+{"workload": "support", "intent_id": "invoice_download_0164", "prompt": "Can I get an invoice for last month?"}
+{"workload": "support", "intent_id": "change_plan_0176", "prompt": "Change pricing tier"}
+{"workload": "support", "intent_id": "account_delete_0011", "prompt": "Close my account permanently please?"}
+{"workload": "support", "intent_id": "password_reset_0172", "prompt": "Hey, How to reset my login password please?"}
+{"workload": "support", "intent_id": "change_plan_0061", "prompt": "Hey, Downgrade subscription"}
+{"workload": "support", "intent_id": "invoice_download_0087", "prompt": "How do I access billing invoices please?"}
+{"workload": "support", "intent_id": "account_delete_0107", "prompt": "Remove my profile"}
+{"workload": "support", "intent_id": "change_plan_0083", "prompt": "Switch to annual billing"}
+{"workload": "support", "intent_id": "password_reset_0197", "prompt": "Hey, How do I reset my password?"}
+{"workload": "support", "intent_id": "refund_policy_0179", "prompt": "Hey, What is your refund policy?"}
+{"workload": "support", "intent_id": "account_delete_0162", "prompt": "How do I delete my account?"}
+{"workload": "support", "intent_id": "password_reset_0067", "prompt": "Hey, How do I reset my password?"}
+{"workload": "support", "intent_id": "account_delete_0185", "prompt": "Close my account permanently please?"}
+{"workload": "support", "intent_id": "password_reset_0190", "prompt": "I forgot my password. What can I do?"}
+{"workload": "support", "intent_id": "password_reset_0003", "prompt": "Password reset steps?"}
+{"workload": "support", "intent_id": "password_reset_0077", "prompt": "I forgot my password. What can I do please?"}
+{"workload": "support", "intent_id": "change_plan_0061", "prompt": "Change pricing tier"}
+{"workload": "support", "intent_id": "password_reset_0103", "prompt": "Help me change my account password"}
+{"workload": "support", "intent_id": "invoice_download_0074", "prompt": "How do I access billing invoices please?"}
+{"workload": "support", "intent_id": "account_delete_0155", "prompt": "Delete account steps"}
+{"workload": "support", "intent_id": "change_plan_0105", "prompt": "Change pricing tier please?"}
+{"workload": "support", "intent_id": "password_reset_0184", "prompt": "How to reset my login password?"}
+{"workload": "support", "intent_id": "change_plan_0061", "prompt": "Switch to annual billing"}
+{"workload": "support", "intent_id": "account_delete_0173", "prompt": "Hey, Close my account permanently please?"}
+{"workload": "support", "intent_id": "invoice_download_0154", "prompt": "Can I get an invoice for last month?"}
+{"workload": "support", "intent_id": "change_plan_0036", "prompt": "Downgrade subscription please?"}
+{"workload": "support", "intent_id": "invoice_download_0053", "prompt": "Can I get an invoice for last month?"}
+{"workload": "support", "intent_id": "change_plan_0076", "prompt": "Switch to annual billing"}
+{"workload": "support", "intent_id": "password_reset_0070", "prompt": "Hey, How do I reset my password?"}
+{"workload": "support", "intent_id": "refund_policy_0024", "prompt": "How do refunds work?"}
+{"workload": "support", "intent_id": "password_reset_0012", "prompt": "Password reset steps please?"}
+{"workload": "support", "intent_id": "password_reset_0129", "prompt": "Hey, Password reset steps?"}
+{"workload": "support", "intent_id": "refund_policy_0001", "prompt": "What is your refund policy please?"}
+{"workload": "support", "intent_id": "password_reset_0172", "prompt": "Hey, I forgot my password. What can I do?"}
+{"workload": "support", "intent_id": "refund_policy_0037", "prompt": "How do refunds work please?"}
+{"workload": "support", "intent_id": "account_delete_0017", "prompt": "Close my account permanently"}
+{"workload": "support", "intent_id": "change_plan_0152", "prompt": "Upgrade my plan"}
+{"workload": "support", "intent_id": "invoice_download_0096", "prompt": "How can I download my invoice please?"}
+{"workload": "support", "intent_id": "account_delete_0143", "prompt": "Hey, Remove my profile"}
+{"workload": "support", "intent_id": "account_delete_0195", "prompt": "How do I delete my account?"}
+{"workload": "support", "intent_id": "password_reset_0187", "prompt": "I forgot my password. What can I do?"}
+{"workload": "support", "intent_id": "change_plan_0160", "prompt": "Switch to annual billing please?"}
+{"workload": "support", "intent_id": "refund_policy_0043", "prompt": "Hey, Do you offer refunds for subscriptions please?"}
+{"workload": "support", "intent_id": "account_delete_0151", "prompt": "How do I delete my account?"}
+{"workload": "support", "intent_id": "change_plan_0118", "prompt": "Hey, Change pricing tier"}
+{"workload": "support", "intent_id": "invoice_download_0087", "prompt": "Where do I find invoices?"}
+{"workload": "support", "intent_id": "refund_policy_0126", "prompt": "Hey, How do refunds work?"}
+{"workload": "support", "intent_id": "refund_policy_0189", "prompt": "Do you offer refunds for subscriptions please?"}
+{"workload": "support", "intent_id": "password_reset_0150", "prompt": "I forgot my password. What can I do?"}
+{"workload": "support", "intent_id": "invoice_download_0171", "prompt": "I need my invoice PDF"}
+{"workload": "support", "intent_id": "refund_policy_0004", "prompt": "Can I get a refund?"}
+{"workload": "support", "intent_id": "account_delete_0186", "prompt": "Close my account permanently"}
+{"workload": "support", "intent_id": "refund_policy_0004", "prompt": "Refund rules and timeline please?"}
+{"workload": "support", "intent_id": "refund_policy_0024", "prompt": "Hey, Can I get a refund please?"}
+{"workload": "support", "intent_id": "account_delete_0041", "prompt": "Remove my profile"}
+{"workload": "support", "intent_id": "invoice_download_0154", "prompt": "I need my invoice PDF"}
+{"workload": "support", "intent_id": "refund_policy_0191", "prompt": "What is your refund policy?"}
+{"workload": "support", "intent_id": "invoice_download_0171", "prompt": "Can I get an invoice for last month?"}
+{"workload": "support", "intent_id": "account_delete_0195", "prompt": "Hey, Remove my profile"}
+{"workload": "support", "intent_id": "invoice_download_0009", "prompt": "I need my invoice PDF please?"}
+{"workload": "support", "intent_id": "invoice_download_0157", "prompt": "How can I download my invoice?"}
+{"workload": "support", "intent_id": "account_delete_0165", "prompt": "Remove my profile"}
+{"workload": "support", "intent_id": "refund_policy_0019", "prompt": "Do you offer refunds for subscriptions?"}
+{"workload": "support", "intent_id": "account_delete_0017", "prompt": "Remove my profile"}
+{"workload": "support", "intent_id": "invoice_download_0055", "prompt": "Can I get an invoice for last month please?"}
+{"workload": "support", "intent_id": "change_plan_0040", "prompt": "How do I change my subscription plan?"}
+{"workload": "support", "intent_id": "password_reset_0070", "prompt": "I forgot my password. What can I do?"}
+{"workload": "support", "intent_id": "password_reset_0197", "prompt": "Password reset steps?"}
+{"workload": "support", "intent_id": "refund_policy_0010", "prompt": "How do refunds work?"}
+{"workload": "support", "intent_id": "invoice_download_0098", "prompt": "I need my invoice PDF"}
+{"workload": "support", "intent_id": "change_plan_0119", "prompt": "Downgrade subscription"}
+{"workload": "support", "intent_id": "account_delete_0182", "prompt": "How do I delete my account?"}
+{"workload": "support", "intent_id": "account_delete_0143", "prompt": "Delete account steps"}
+{"workload": "support", "intent_id": "refund_policy_0073", "prompt": "What is your refund policy please?"}
+{"workload": "support", "intent_id": "invoice_download_0106", "prompt": "How do I access billing invoices?"}
+{"workload": "support", "intent_id": "change_plan_0056", "prompt": "Hey, Upgrade my plan"}
+{"workload": "support", "intent_id": "change_plan_0111", "prompt": "Change pricing tier"}
+{"workload": "support", "intent_id": "change_plan_0013", "prompt": "Change pricing tier please?"}
+{"workload": "support", "intent_id": "refund_policy_0147", "prompt": "Hey, Do you offer refunds for subscriptions please?"}
+{"workload": "support", "intent_id": "change_plan_0007", "prompt": "Hey, Downgrade subscription"}
+{"workload": "support", "intent_id": "refund_policy_0085", "prompt": "Refund rules and timeline please?"}
+{"workload": "support", "intent_id": "account_delete_0041", "prompt": "Delete account steps please?"}
+{"workload": "support", "intent_id": "invoice_download_0090", "prompt": "How do I access billing invoices please?"}
+{"workload": "support", "intent_id": "password_reset_0094", "prompt": "How do I reset my password?"}
+{"workload": "support", "intent_id": "change_plan_0060", "prompt": "Hey, Upgrade my plan please?"}
+{"workload": "support", "intent_id": "change_plan_0052", "prompt": "Downgrade subscription"}
+{"workload": "support", "intent_id": "password_reset_0109", "prompt": "Hey, How to reset my login password please?"}
+{"workload": "support", "intent_id": "password_reset_0110", "prompt": "Password reset steps?"}
+{"workload": "support", "intent_id": "change_plan_0071", "prompt": "Upgrade my plan please?"}
+{"workload": "support", "intent_id": "account_delete_0173", "prompt": "Delete account steps please?"}
+{"workload": "support", "intent_id": "invoice_download_0177", "prompt": "How can I download my invoice?"}
+{"workload": "support", "intent_id": "password_reset_0117", "prompt": "Hey, I forgot my password. What can I do?"}
+{"workload": "support", "intent_id": "refund_policy_0046", "prompt": "Refund rules and timeline please?"}
+{"workload": "support", "intent_id": "password_reset_0148", "prompt": "Password reset steps?"}
+{"workload": "support", "intent_id": "refund_policy_0081", "prompt": "Hey, Refund rules and timeline?"}
+{"workload": "support", "intent_id": "refund_policy_0158", "prompt": "Refund rules and timeline?"}
+{"workload": "support", "intent_id": "invoice_download_0098", "prompt": "Where do I find invoices?"}
+{"workload": "support", "intent_id": "change_plan_0180", "prompt": "Downgrade subscription"}
+{"workload": "support", "intent_id": "refund_policy_0169", "prompt": "Do you offer refunds for subscriptions?"}
+{"workload": "support", "intent_id": "change_plan_0083", "prompt": "Hey, Upgrade my plan"}
+{"workload": "support", "intent_id": "account_delete_0086", "prompt": "Close my account permanently"}
+{"workload": "support", "intent_id": "change_plan_0135", "prompt": "Hey, How do I change my subscription plan?"}
+{"workload": "support", "intent_id": "refund_policy_0116", "prompt": "Refund rules and timeline please?"}
+{"workload": "support", "intent_id": "password_reset_0148", "prompt": "Help me change my account password"}
+{"workload": "support", "intent_id": "account_delete_0100", "prompt": "Can you erase my account?"}
+{"workload": "support", "intent_id": "account_delete_0011", "prompt": "Hey, Remove my profile please?"}
+{"workload": "support", "intent_id": "change_plan_0076", "prompt": "Change pricing tier"}
+{"workload": "support", "intent_id": "change_plan_0056", "prompt": "How do I change my subscription plan?"}
+{"workload": "support", "intent_id": "refund_policy_0020", "prompt": "Do you offer refunds for subscriptions?"}
+{"workload": "support", "intent_id": "change_plan_0132", "prompt": "Upgrade my plan"}
+{"workload": "support", "intent_id": "account_delete_0023", "prompt": "Close my account permanently"}
+{"workload": "support", "intent_id": "account_delete_0011", "prompt": "Hey, Delete account steps please?"}
+{"workload": "support", "intent_id": "invoice_download_0026", "prompt": "Can I get an invoice for last month?"}
+{"workload": "support", "intent_id": "invoice_download_0140", "prompt": "Where do I find invoices?"}
+{"workload": "support", "intent_id": "change_plan_0181", "prompt": "How do I change my subscription plan?"}
+{"workload": "support", "intent_id": "password_reset_0168", "prompt": "I forgot my password. What can I do?"}
+{"workload": "support", "intent_id": "refund_policy_0024", "prompt": "Do you offer refunds for subscriptions?"}
+{"workload": "support", "intent_id": "refund_policy_0121", "prompt": "Hey, Can I get a refund?"}
+{"workload": "support", "intent_id": "change_plan_0036", "prompt": "Switch to annual billing"}
+{"workload": "support", "intent_id": "change_plan_0160", "prompt": "Change pricing tier"}
+{"workload": "support", "intent_id": "invoice_download_0171", "prompt": "Where do I find invoices?"}
+{"workload": "support", "intent_id": "change_plan_0056", "prompt": "Switch to annual billing please?"}
+{"workload": "support", "intent_id": "change_plan_0176", "prompt": "Hey, How do I change my subscription plan?"}
+{"workload": "support", "intent_id": "refund_policy_0192", "prompt": "Hey, Do you offer refunds for subscriptions?"}
+{"workload": "support", "intent_id": "invoice_download_0140", "prompt": "How do I access billing invoices please?"}
+{"workload": "support", "intent_id": "invoice_download_0015", "prompt": "How can I download my invoice?"}
+{"workload": "support", "intent_id": "account_delete_0093", "prompt": "Remove my profile"}
+{"workload": "support", "intent_id": "invoice_download_0133", "prompt": "How do I access billing invoices please?"}
+{"workload": "support", "intent_id": "invoice_download_0045", "prompt": "Hey, How do I access billing invoices please?"}
+{"workload": "support", "intent_id": "change_plan_0188", "prompt": "How do I change my subscription plan?"}
+{"workload": "support", "intent_id": "password_reset_0069", "prompt": "Password reset steps?"}
+{"workload": "support", "intent_id": "change_plan_0194", "prompt": "How do I change my subscription plan?"}
+{"workload": "support", "intent_id": "refund_policy_0019", "prompt": "Can I get a refund?"}
+{"workload": "support", "intent_id": "password_reset_0002", "prompt": "Hey, How to reset my login password?"}
+{"workload": "support", "intent_id": "refund_policy_0064", "prompt": "Refund rules and timeline please?"}
+{"workload": "support", "intent_id": "change_plan_0054", "prompt": "Upgrade my plan"}
+{"workload": "support", "intent_id": "password_reset_0035", "prompt": "How do I reset my password please?"}
+{"workload": "support", "intent_id": "account_delete_0030", "prompt": "Delete account steps please?"}
+{"workload": "support", "intent_id": "refund_policy_0014", "prompt": "What is your refund policy?"}
+{"workload": "support", "intent_id": "invoice_download_0066", "prompt": "Where do I find invoices?"}
+{"workload": "support", "intent_id": "password_reset_0067", "prompt": "Hey, I forgot my password. What can I do please?"}
+{"workload": "support", "intent_id": "refund_policy_0158", "prompt": "How do refunds work?"}
+{"workload": "support", "intent_id": "account_delete_0108", "prompt": "Close my account permanently"}
+{"workload": "support", "intent_id": "password_reset_0129", "prompt": "Help me change my account password please?"}
+{"workload": "support", "intent_id": "change_plan_0130", "prompt": "Hey, Switch to annual billing"}
+{"workload": "support", "intent_id": "password_reset_0197", "prompt": "How to reset my login password?"}
+{"workload": "support", "intent_id": "account_delete_0030", "prompt": "Remove my profile"}
+{"workload": "support", "intent_id": "password_reset_0067", "prompt": "Password reset steps?"}
+{"workload": "support", "intent_id": "change_plan_0091", "prompt": "Hey, Upgrade my plan"}
+{"workload": "support", "intent_id": "password_reset_0033", "prompt": "Hey, How to reset my login password please?"}
+{"workload": "support", "intent_id": "password_reset_0069", "prompt": "Hey, I forgot my password. What can I do?"}
+{"workload": "support", "intent_id": "refund_policy_0101", "prompt": "Hey, Do you offer refunds for subscriptions?"}
+{"workload": "support", "intent_id": "account_delete_0146", "prompt": "Close my account permanently"}
+{"workload": "support", "intent_id": "change_plan_0141", "prompt": "Upgrade my plan"}
+{"workload": "support", "intent_id": "refund_policy_0120", "prompt": "How do refunds work?"}
+{"workload": "support", "intent_id": "change_plan_0152", "prompt": "Switch to annual billing please?"}
+{"workload": "support", "intent_id": "refund_policy_0191", "prompt": "Do you offer refunds for subscriptions?"}
+{"workload": "support", "intent_id": "change_plan_0118", "prompt": "Hey, Upgrade my plan"}
+{"workload": "support", "intent_id": "account_delete_0041", "prompt": "How do I delete my account?"}
+{"workload": "support", "intent_id": "invoice_download_0015", "prompt": "How do I access billing invoices?"}
+{"workload": "support", "intent_id": "refund_policy_0088", "prompt": "Do you offer refunds for subscriptions please?"}
+{"workload": "support", "intent_id": "refund_policy_0064", "prompt": "What is your refund policy?"}
+{"workload": "support", "intent_id": "password_reset_0183", "prompt": "Help me change my account password please?"}
+{"workload": "support", "intent_id": "refund_policy_0043", "prompt": "Refund rules and timeline?"}
+{"workload": "support", "intent_id": "invoice_download_0157", "prompt": "Can I get an invoice for last month?"}
+{"workload": "support", "intent_id": "change_plan_0052", "prompt": "Switch to annual billing"}
+{"workload": "support", "intent_id": "password_reset_0117", "prompt": "How do I reset my password?"}
+{"workload": "support", "intent_id": "change_plan_0152", "prompt": "Downgrade subscription please?"}
+{"workload": "support", "intent_id": "account_delete_0151", "prompt": "Remove my profile please?"}
+{"workload": "support", "intent_id": "password_reset_0048", "prompt": "Hey, How do I reset my password please?"}
+{"workload": "support", "intent_id": "account_delete_0143", "prompt": "Hey, How do I delete my account?"}
+{"workload": "support", "intent_id": "password_reset_0167", "prompt": "Hey, I forgot my password. What can I do please?"}
+{"workload": "support", "intent_id": "change_plan_0128", "prompt": "Upgrade my plan"}
+{"workload": "support", "intent_id": "password_reset_0069", "prompt": "How do I reset my password please?"}
+{"workload": "support", "intent_id": "account_delete_0057", "prompt": "Delete account steps please?"}
+{"workload": "support", "intent_id": "change_plan_0131", "prompt": "Hey, Upgrade my plan"}
+{"workload": "support", "intent_id": "change_plan_0132", "prompt": "Hey, Switch to annual billing"}
+{"workload": "support", "intent_id": "invoice_download_0196", "prompt": "Can I get an invoice for last month?"}
+{"workload": "support", "intent_id": "account_delete_0030", "prompt": "Close my account permanently please?"}
+{"workload": "support", "intent_id": "invoice_download_0199", "prompt": "Hey, I need my invoice PDF"}
+{"workload": "support", "intent_id": "refund_policy_0016", "prompt": "Refund rules and timeline please?"}
+{"workload": "support", "intent_id": "password_reset_0153", "prompt": "How to reset my login password?"}
+{"workload": "support", "intent_id": "refund_policy_0092", "prompt": "How do refunds work please?"}
+{"workload": "support", "intent_id": "refund_policy_0149", "prompt": "Can I get a refund?"}
+{"workload": "support", "intent_id": "refund_policy_0145", "prompt": "What is your refund policy?"}
+{"workload": "support", "intent_id": "refund_policy_0121", "prompt": "Refund rules and timeline please?"}
+{"workload": "support", "intent_id": "account_delete_0195", "prompt": "Delete account steps please?"}
+{"workload": "support", "intent_id": "change_plan_0141", "prompt": "Hey, Switch to annual billing"}
+{"workload": "support", "intent_id": "account_delete_0006", "prompt": "Hey, Remove my profile"}
+{"workload": "support", "intent_id": "refund_policy_0121", "prompt": "What is your refund policy please?"}
+{"workload": "support", "intent_id": "change_plan_0137", "prompt": "Switch to annual billing"}
+{"workload": "support", "intent_id": "password_reset_0134", "prompt": "Hey, How do I reset my password please?"}
+{"workload": "support", "intent_id": "account_delete_0072", "prompt": "Delete account steps"}
+{"workload": "support", "intent_id": "change_plan_0052", "prompt": "Change pricing tier please?"}
+{"workload": "support", "intent_id": "password_reset_0110", "prompt": "How to reset my login password please?"}
+{"workload": "support", "intent_id": "password_reset_0067", "prompt": "Help me change my account password"}
+{"workload": "support", "intent_id": "change_plan_0007", "prompt": "Hey, Upgrade my plan"}
+{"workload": "support", "intent_id": "change_plan_0130", "prompt": "Hey, Downgrade subscription"}
+{"workload": "support", "intent_id": "password_reset_0115", "prompt": "Password reset steps?"}
+{"workload": "support", "intent_id": "refund_policy_0156", "prompt": "Do you offer refunds for subscriptions please?"}
+{"workload": "support", "intent_id": "change_plan_0052", "prompt": "Hey, Upgrade my plan please?"}
+{"workload": "support", "intent_id": "refund_policy_0080", "prompt": "How do refunds work please?"}
+{"workload": "support", "intent_id": "refund_policy_0085", "prompt": "Can I get a refund?"}
+{"workload": "support", "intent_id": "invoice_download_0087", "prompt": "I need my invoice PDF"}
+{"workload": "support", "intent_id": "change_plan_0062", "prompt": "Downgrade subscription"}
+{"workload": "support", "intent_id": "account_delete_0086", "prompt": "Hey, How do I delete my account please?"}
+{"workload": "support", "intent_id": "password_reset_0003", "prompt": "I forgot my password. What can I do please?"}
+{"workload": "support", "intent_id": "invoice_download_0000", "prompt": "Where do I find invoices please?"}
+{"workload": "support", "intent_id": "password_reset_0109", "prompt": "Help me change my account password"}
+{"workload": "support", "intent_id": "invoice_download_0154", "prompt": "How do I access billing invoices please?"}
+{"workload": "support", "intent_id": "invoice_download_0113", "prompt": "How do I access billing invoices please?"}
+{"workload": "support", "intent_id": "refund_policy_0019", "prompt": "How do refunds work?"}
+{"workload": "support", "intent_id": "invoice_download_0098", "prompt": "How can I download my invoice?"}
+{"workload": "support", "intent_id": "refund_policy_0158", "prompt": "Can I get a refund?"}
+{"workload": "support", "intent_id": "invoice_download_0139", "prompt": "I need my invoice PDF please?"}
+{"workload": "support", "intent_id": "account_delete_0018", "prompt": "Close my account permanently please?"}
+{"workload": "support", "intent_id": "password_reset_0082", "prompt": "Hey, I forgot my password. What can I do please?"}
+{"workload": "support", "intent_id": "change_plan_0131", "prompt": "Change pricing tier"}
+{"workload": "support", "intent_id": "account_delete_0155", "prompt": "Close my account permanently"}
+{"workload": "support", "intent_id": "refund_policy_0127", "prompt": "Refund rules and timeline?"}
+{"workload": "support", "intent_id": "invoice_download_0159", "prompt": "Hey, Can I get an invoice for last month please?"}
+{"workload": "support", "intent_id": "invoice_download_0122", "prompt": "Can I get an invoice for last month?"}
+{"workload": "support", "intent_id": "refund_policy_0016", "prompt": "How do refunds work?"}
+{"workload": "support", "intent_id": "invoice_download_0123", "prompt": "Hey, How can I download my invoice?"}
+{"workload": "support", "intent_id": "invoice_download_0032", "prompt": "Hey, Where do I find invoices?"}
+{"workload": "support", "intent_id": "account_delete_0102", "prompt": "Close my account permanently"}
+{"workload": "support", "intent_id": "account_delete_0086", "prompt": "Delete account steps please?"}
+{"workload": "support", "intent_id": "refund_policy_0101", "prompt": "Can I get a refund please?"}
+{"workload": "support", "intent_id": "invoice_download_0161", "prompt": "Hey, How do I access billing invoices?"}
+{"workload": "support", "intent_id": "refund_policy_0010", "prompt": "Can I get a refund?"}
+{"workload": "support", "intent_id": "refund_policy_0169", "prompt": "How do refunds work please?"}
+{"workload": "support", "intent_id": "refund_policy_0189", "prompt": "What is your refund policy please?"}
+{"workload": "support", "intent_id": "refund_policy_0008", "prompt": "How do refunds work?"}
+{"workload": "support", "intent_id": "account_delete_0011", "prompt": "Hey, Can you erase my account please?"}
+{"workload": "support", "intent_id": "account_delete_0162", "prompt": "Delete account steps please?"}
+{"workload": "support", "intent_id": "change_plan_0051", "prompt": "Switch to annual billing"}
+{"workload": "support", "intent_id": "refund_policy_0075", "prompt": "Hey, Do you offer refunds for subscriptions please?"}
+{"workload": "support", "intent_id": "password_reset_0125", "prompt": "How do I reset my password?"}
+{"workload": "support", "intent_id": "refund_policy_0075", "prompt": "How do refunds work please?"}
+{"workload": "support", "intent_id": "refund_policy_0047", "prompt": "What is your refund policy?"}
+{"workload": "support", "intent_id": "change_plan_0065", "prompt": "Downgrade subscription please?"}
+{"workload": "support", "intent_id": "invoice_download_0161", "prompt": "Can I get an invoice for last month?"}
+{"workload": "support", "intent_id": "refund_policy_0037", "prompt": "Do you offer refunds for subscriptions?"}
+{"workload": "support", "intent_id": "invoice_download_0171", "prompt": "How do I access billing invoices please?"}
+{"workload": "support", "intent_id": "invoice_download_0066", "prompt": "Hey, How do I access billing invoices?"}
+{"workload": "support", "intent_id": "change_plan_0063", "prompt": "Downgrade subscription"}
+{"workload": "support", "intent_id": "refund_policy_0020", "prompt": "Hey, Refund rules and timeline?"}
+{"workload": "support", "intent_id": "password_reset_0115", "prompt": "Hey, How to reset my login password?"}
+{"workload": "support", "intent_id": "account_delete_0107", "prompt": "Delete account steps please?"}
+{"workload": "support", "intent_id": "invoice_download_0038", "prompt": "Hey, How can I download my invoice please?"}
+{"workload": "support", "intent_id": "account_delete_0185", "prompt": "Hey, Delete account steps please?"}
+{"workload": "support", "intent_id": "change_plan_0060", "prompt": "Change pricing tier"}
+{"workload": "support", "intent_id": "refund_policy_0156", "prompt": "Can I get a refund?"}
+{"workload": "support", "intent_id": "refund_policy_0080", "prompt": "Hey, Refund rules and timeline?"}
+{"workload": "support", "intent_id": "password_reset_0144", "prompt": "How to reset my login password?"}
+{"workload": "support", "intent_id": "invoice_download_0005", "prompt": "Can I get an invoice for last month?"}
+{"workload": "support", "intent_id": "invoice_download_0028", "prompt": "Where do I find invoices?"}
+{"workload": "support", "intent_id": "refund_policy_0016", "prompt": "What is your refund policy?"}
+{"workload": "support", "intent_id": "refund_policy_0050", "prompt": "Can I get a refund?"}
+{"workload": "support", "intent_id": "change_plan_0051", "prompt": "Downgrade subscription please?"}
+{"workload": "support", "intent_id": "invoice_download_0058", "prompt": "I need my invoice PDF please?"}
+{"workload": "support", "intent_id": "refund_policy_0189", "prompt": "Hey, How do refunds work please?"}
+{"workload": "support", "intent_id": "refund_policy_0073", "prompt": "How do refunds work?"}
+{"workload": "support", "intent_id": "refund_policy_0001", "prompt": "Do you offer refunds for subscriptions?"}
+{"workload": "support", "intent_id": "change_plan_0065", "prompt": "Switch to annual billing please?"}
+{"workload": "support", "intent_id": "refund_policy_0127", "prompt": "How do refunds work?"}
+{"workload": "support", "intent_id": "invoice_download_0038", "prompt": "How do I access billing invoices please?"}
+{"workload": "support", "intent_id": "refund_policy_0163", "prompt": "Hey, Can I get a refund?"}
+{"workload": "support", "intent_id": "refund_policy_0088", "prompt": "Refund rules and timeline?"}
+{"workload": "support", "intent_id": "account_delete_0100", "prompt": "How do I delete my account?"}
+{"workload": "support", "intent_id": "account_delete_0151", "prompt": "Close my account permanently please?"}
+{"workload": "support", "intent_id": "change_plan_0054", "prompt": "How do I change my subscription plan?"}
+{"workload": "support", "intent_id": "password_reset_0067", "prompt": "How to reset my login password?"}
+{"workload": "support", "intent_id": "account_delete_0017", "prompt": "How do I delete my account?"}
+{"workload": "support", "intent_id": "account_delete_0099", "prompt": "Remove my profile"}
+{"workload": "support", "intent_id": "refund_policy_0116", "prompt": "How do refunds work?"}
+{"workload": "support", "intent_id": "password_reset_0002", "prompt": "I forgot my password. What can I do?"}
+{"workload": "support", "intent_id": "invoice_download_0009", "prompt": "Hey, Where do I find invoices please?"}
+{"workload": "support", "intent_id": "refund_policy_0014", "prompt": "Do you offer refunds for subscriptions?"}
+{"workload": "support", "intent_id": "password_reset_0114", "prompt": "How do I reset my password?"}
+{"workload": "support", "intent_id": "refund_policy_0126", "prompt": "Do you offer refunds for subscriptions please?"}
+{"workload": "support", "intent_id": "change_plan_0135", "prompt": "Downgrade subscription"}
+{"workload": "support", "intent_id": "invoice_download_0170", "prompt": "Can I get an invoice for last month please?"}
+{"workload": "support", "intent_id": "account_delete_0095", "prompt": "Hey, Can you erase my account?"}
+{"workload": "support", "intent_id": "invoice_download_0123", "prompt": "Can I get an invoice for last month?"}
+{"workload": "support", "intent_id": "invoice_download_0066", "prompt": "I need my invoice PDF"}
+{"workload": "support", "intent_id": "invoice_download_0140", "prompt": "Can I get an invoice for last month?"}
+{"workload": "support", "intent_id": "account_delete_0023", "prompt": "How do I delete my account?"}
+{"workload": "support", "intent_id": "change_plan_0091", "prompt": "Change pricing tier"}
+{"workload": "support", "intent_id": "account_delete_0174", "prompt": "How do I delete my account?"}
+{"workload": "support", "intent_id": "invoice_download_0154", "prompt": "Hey, Where do I find invoices please?"}
+{"workload": "support", "intent_id": "invoice_download_0164", "prompt": "Where do I find invoices?"}
+{"workload": "support", "intent_id": "account_delete_0195", "prompt": "Close my account permanently please?"}
+{"workload": "support", "intent_id": "change_plan_0132", "prompt": "Change pricing tier please?"}
+{"workload": "support", "intent_id": "invoice_download_0199", "prompt": "Can I get an invoice for last month please?"}
+{"workload": "support", "intent_id": "account_delete_0155", "prompt": "Can you erase my account?"}
+{"workload": "support", "intent_id": "invoice_download_0122", "prompt": "Hey, I need my invoice PDF"}
+{"workload": "support", "intent_id": "refund_policy_0124", "prompt": "Refund rules and timeline?"}
+{"workload": "support", "intent_id": "refund_policy_0073", "prompt": "Hey, Refund rules and timeline?"}
+{"workload": "support", "intent_id": "account_delete_0186", "prompt": "Hey, How do I delete my account?"}
+{"workload": "support", "intent_id": "password_reset_0059", "prompt": "I forgot my password. What can I do?"}
+{"workload": "support", "intent_id": "password_reset_0142", "prompt": "Hey, Password reset steps?"}
+{"workload": "support", "intent_id": "account_delete_0042", "prompt": "Close my account permanently"}
+{"workload": "support", "intent_id": "change_plan_0083", "prompt": "How do I change my subscription plan?"}
+{"workload": "support", "intent_id": "password_reset_0094", "prompt": "Password reset steps?"}
+{"workload": "support", "intent_id": "invoice_download_0031", "prompt": "Can I get an invoice for last month?"}
+{"workload": "support", "intent_id": "password_reset_0184", "prompt": "How do I reset my password?"}
+{"workload": "support", "intent_id": "change_plan_0131", "prompt": "Switch to annual billing"}
+{"workload": "support", "intent_id": "password_reset_0112", "prompt": "I forgot my password. What can I do?"}
+{"workload": "support", "intent_id": "refund_policy_0024", "prompt": "What is your refund policy please?"}
+{"workload": "support", "intent_id": "invoice_download_0068", "prompt": "Where do I find invoices?"}
+{"workload": "support", "intent_id": "account_delete_0049", "prompt": "Close my account permanently"}
+{"workload": "support", "intent_id": "password_reset_0115", "prompt": "I forgot my password. What can I do?"}
+{"workload": "support", "intent_id": "refund_policy_0158", "prompt": "What is your refund policy?"}
+{"workload": "support", "intent_id": "change_plan_0029", "prompt": "How do I change my subscription plan?"}
+{"workload": "support", "intent_id": "change_plan_0176", "prompt": "Downgrade subscription"}
+{"workload": "support", "intent_id": "change_plan_0061", "prompt": "Hey, Upgrade my plan please?"}
+{"workload": "support", "intent_id": "refund_policy_0145", "prompt": "Can I get a refund please?"}
+{"workload": "support", "intent_id": "change_plan_0027", "prompt": "Hey, Upgrade my plan"}
+{"workload": "support", "intent_id": "change_plan_0091", "prompt": "How do I change my subscription plan?"}
+{"workload": "support", "intent_id": "change_plan_0105", "prompt": "Downgrade subscription please?"}
+{"workload": "support", "intent_id": "invoice_download_0177", "prompt": "Can I get an invoice for last month please?"}
+{"workload": "support", "intent_id": "account_delete_0186", "prompt": "Can you erase my account?"}
+{"workload": "support", "intent_id": "password_reset_0184", "prompt": "Help me change my account password"}
+{"workload": "support", "intent_id": "invoice_download_0098", "prompt": "Hey, How do I access billing invoices please?"}
+{"workload": "support", "intent_id": "account_delete_0099", "prompt": "Hey, Delete account steps please?"}
+{"workload": "support", "intent_id": "change_plan_0027", "prompt": "Hey, Switch to annual billing"}
+{"workload": "support", "intent_id": "invoice_download_0028", "prompt": "How can I download my invoice please?"}
+{"workload": "support", "intent_id": "refund_policy_0145", "prompt": "Hey, Refund rules and timeline?"}
+{"workload": "support", "intent_id": "account_delete_0041", "prompt": "Hey, Close my account permanently"}
+{"workload": "support", "intent_id": "invoice_download_0164", "prompt": "Hey, I need my invoice PDF please?"}
+{"workload": "support", "intent_id": "password_reset_0197", "prompt": "I forgot my password. What can I do?"}
+{"workload": "support", "intent_id": "change_plan_0071", "prompt": "Hey, How do I change my subscription plan please?"}
+{"workload": "support", "intent_id": "password_reset_0172", "prompt": "How do I reset my password?"}
+{"workload": "support", "intent_id": "password_reset_0034", "prompt": "Password reset steps please?"}
+{"workload": "support", "intent_id": "password_reset_0012", "prompt": "How do I reset my password?"}
+{"workload": "support", "intent_id": "refund_policy_0179", "prompt": "Can I get a refund?"}
+{"workload": "support", "intent_id": "invoice_download_0053", "prompt": "Where do I find invoices please?"}
+{"workload": "support", "intent_id": "change_plan_0111", "prompt": "Hey, Upgrade my plan please?"}
+{"workload": "support", "intent_id": "password_reset_0048", "prompt": "I forgot my password. What can I do?"}
+{"workload": "support", "intent_id": "password_reset_0033", "prompt": "Hey, Password reset steps please?"}
+{"workload": "support", "intent_id": "change_plan_0111", "prompt": "Switch to annual billing"}
+{"workload": "support", "intent_id": "password_reset_0035", "prompt": "Help me change my account password please?"}
+{"workload": "support", "intent_id": "refund_policy_0158", "prompt": "Do you offer refunds for subscriptions please?"}
+{"workload": "support", "intent_id": "password_reset_0114", "prompt": "Hey, Password reset steps?"}
+{"workload": "support", "intent_id": "change_plan_0180", "prompt": "Upgrade my plan please?"}
+{"workload": "support", "intent_id": "invoice_download_0038", "prompt": "Can I get an invoice for last month?"}
+{"workload": "support", "intent_id": "account_delete_0100", "prompt": "Close my account permanently"}
+{"workload": "support", "intent_id": "refund_policy_0163", "prompt": "How do refunds work?"}
+{"workload": "support", "intent_id": "account_delete_0104", "prompt": "Can you erase my account?"}
+{"workload": "support", "intent_id": "invoice_download_0087", "prompt": "Can I get an invoice for last month please?"}
+{"workload": "support", "intent_id": "account_delete_0042", "prompt": "How do I delete my account please?"}
+{"workload": "support", "intent_id": "refund_policy_0179", "prompt": "Hey, Refund rules and timeline please?"}
+{"workload": "support", "intent_id": "account_delete_0104", "prompt": "How do I delete my account please?"}
+{"workload": "support", "intent_id": "invoice_download_0159", "prompt": "I need my invoice PDF please?"}
+{"workload": "support", "intent_id": "change_plan_0128", "prompt": "How do I change my subscription plan please?"}
+{"workload": "support", "intent_id": "password_reset_0144", "prompt": "Hey, I forgot my password. What can I do?"}
+{"workload": "support", "intent_id": "password_reset_0103", "prompt": "Hey, How do I reset my password?"}
+{"workload": "support", "intent_id": "password_reset_0069", "prompt": "Help me change my account password"}
+{"workload": "support", "intent_id": "refund_policy_0163", "prompt": "What is your refund policy?"}
+{"workload": "support", "intent_id": "account_delete_0086", "prompt": "Can you erase my account please?"}
+{"workload": "support", "intent_id": "refund_policy_0136", "prompt": "Hey, Do you offer refunds for subscriptions please?"}
+{"workload": "support", "intent_id": "account_delete_0018", "prompt": "Remove my profile please?"}
+{"workload": "support", "intent_id": "account_delete_0107", "prompt": "Can you erase my account please?"}
+{"workload": "support", "intent_id": "account_delete_0057", "prompt": "Remove my profile"}
+{"workload": "support", "intent_id": "account_delete_0174", "prompt": "Remove my profile please?"}
+{"workload": "support", "intent_id": "refund_policy_0126", "prompt": "What is your refund policy?"}
+{"workload": "support", "intent_id": "refund_policy_0080", "prompt": "Do you offer refunds for subscriptions?"}
+{"workload": "support", "intent_id": "refund_policy_0085", "prompt": "How do refunds work please?"}
+{"workload": "support", "intent_id": "change_plan_0152", "prompt": "Change pricing tier"}
+{"workload": "support", "intent_id": "password_reset_0070", "prompt": "Help me change my account password"}
+{"workload": "support", "intent_id": "refund_policy_0043", "prompt": "Hey, What is your refund policy please?"}
+{"workload": "support", "intent_id": "change_plan_0065", "prompt": "Upgrade my plan"}
+{"workload": "support", "intent_id": "change_plan_0007", "prompt": "Hey, Change pricing tier please?"}
+{"workload": "support", "intent_id": "invoice_download_0022", "prompt": "Can I get an invoice for last month please?"}
+{"workload": "support", "intent_id": "password_reset_0168", "prompt": "How do I reset my password please?"}
+{"workload": "support", "intent_id": "invoice_download_0009", "prompt": "Can I get an invoice for last month please?"}
+{"workload": "support", "intent_id": "refund_policy_0124", "prompt": "Can I get a refund?"}
+{"workload": "support", "intent_id": "change_plan_0119", "prompt": "Switch to annual billing"}
+{"workload": "support", "intent_id": "password_reset_0197", "prompt": "Help me change my account password"}
+{"workload": "support", "intent_id": "invoice_download_0058", "prompt": "Can I get an invoice for last month please?"}
+{"workload": "support", "intent_id": "password_reset_0134", "prompt": "I forgot my password. What can I do please?"}
+{"workload": "support", "intent_id": "invoice_download_0022", "prompt": "How do I access billing invoices?"}
+{"workload": "support", "intent_id": "invoice_download_0000", "prompt": "How can I download my invoice?"}
+{"workload": "support", "intent_id": "account_delete_0182", "prompt": "Remove my profile please?"}
+{"workload": "support", "intent_id": "password_reset_0117", "prompt": "How to reset my login password?"}
+{"workload": "support", "intent_id": "password_reset_0089", "prompt": "How do I reset my password?"}
+{"workload": "support", "intent_id": "change_plan_0052", "prompt": "How do I change my subscription plan?"}
+{"workload": "support", "intent_id": "invoice_download_0106", "prompt": "Can I get an invoice for last month please?"}
+{"workload": "support", "intent_id": "account_delete_0193", "prompt": "Close my account permanently"}
+{"workload": "support", "intent_id": "account_delete_0198", "prompt": "Remove my profile please?"}
+{"workload": "support", "intent_id": "refund_policy_0046", "prompt": "Hey, Do you offer refunds for subscriptions please?"}
+{"workload": "support", "intent_id": "invoice_download_0199", "prompt": "Where do I find invoices?"}
+{"workload": "support", "intent_id": "change_plan_0036", "prompt": "Hey, Change pricing tier"}
+{"workload": "support", "intent_id": "change_plan_0130", "prompt": "Change pricing tier"}
+{"workload": "support", "intent_id": "invoice_download_0161", "prompt": "Hey, How can I download my invoice please?"}
+{"workload": "support", "intent_id": "refund_policy_0149", "prompt": "How do refunds work?"}
+{"workload": "support", "intent_id": "invoice_download_0113", "prompt": "How can I download my invoice?"}
+{"workload": "support", "intent_id": "change_plan_0141", "prompt": "How do I change my subscription plan please?"}
+{"workload": "support", "intent_id": "password_reset_0077", "prompt": "How to reset my login password please?"}
+{"workload": "support", "intent_id": "account_delete_0165", "prompt": "Close my account permanently"}
+{"workload": "support", "intent_id": "change_plan_0176", "prompt": "Switch to annual billing"}
+{"workload": "support", "intent_id": "change_plan_0040", "prompt": "Downgrade subscription please?"}
+{"workload": "support", "intent_id": "refund_policy_0088", "prompt": "Can I get a refund please?"}
+{"workload": "support", "intent_id": "password_reset_0033", "prompt": "How do I reset my password?"}
+{"workload": "support", "intent_id": "password_reset_0142", "prompt": "Hey, How do I reset my password?"}
+{"workload": "support", "intent_id": "refund_policy_0008", "prompt": "What is your refund policy?"}
+{"workload": "support", "intent_id": "invoice_download_0161", "prompt": "I need my invoice PDF"}
+{"workload": "support", "intent_id": "refund_policy_0008", "prompt": "Hey, Can I get a refund?"}
+{"workload": "support", "intent_id": "change_plan_0175", "prompt": "Hey, Downgrade subscription"}
+{"workload": "support", "intent_id": "invoice_download_0044", "prompt": "Hey, How do I access billing invoices please?"}
+{"workload": "support", "intent_id": "refund_policy_0124", "prompt": "Hey, Do you offer refunds for subscriptions please?"}
+{"workload": "support", "intent_id": "invoice_download_0055", "prompt": "I need my invoice PDF please?"}
+{"workload": "support", "intent_id": "invoice_download_0170", "prompt": "I need my invoice PDF please?"}
+{"workload": "support", "intent_id": "password_reset_0059", "prompt": "Help me change my account password please?"}
+{"workload": "support", "intent_id": "invoice_download_0199", "prompt": "Hey, How do I access billing invoices?"}
+{"workload": "support", "intent_id": "change_plan_0194", "prompt": "Change pricing tier please?"}
+{"workload": "support", "intent_id": "refund_policy_0149", "prompt": "Do you offer refunds for subscriptions please?"}
+{"workload": "support", "intent_id": "account_delete_0072", "prompt": "How do I delete my account please?"}
+{"workload": "support", "intent_id": "password_reset_0082", "prompt": "How do I reset my password?"}
+{"workload": "support", "intent_id": "refund_policy_0050", "prompt": "Refund rules and timeline please?"}
+{"workload": "support", "intent_id": "password_reset_0094", "prompt": "Help me change my account password"}
+{"workload": "support", "intent_id": "account_delete_0143", "prompt": "Close my account permanently"}
+{"workload": "support", "intent_id": "password_reset_0144", "prompt": "How do I reset my password?"}
+{"workload": "support", "intent_id": "password_reset_0134", "prompt": "How to reset my login password?"}
+{"workload": "support", "intent_id": "account_delete_0165", "prompt": "Can you erase my account?"}
+{"workload": "support", "intent_id": "refund_policy_0084", "prompt": "Hey, How do refunds work please?"}
+{"workload": "support", "intent_id": "password_reset_0187", "prompt": "Help me change my account password"}
+{"workload": "support", "intent_id": "invoice_download_0196", "prompt": "How can I download my invoice?"}
+{"workload": "support", "intent_id": "change_plan_0135", "prompt": "Hey, Switch to annual billing"}
+{"workload": "support", "intent_id": "invoice_download_0139", "prompt": "Hey, How can I download my invoice?"}
+{"workload": "support", "intent_id": "refund_policy_0075", "prompt": "What is your refund policy?"}
+{"workload": "support", "intent_id": "account_delete_0193", "prompt": "Can you erase my account?"}
+{"workload": "support", "intent_id": "change_plan_0036", "prompt": "How do I change my subscription plan?"}
+{"workload": "support", "intent_id": "change_plan_0056", "prompt": "Hey, Change pricing tier please?"}
+{"workload": "support", "intent_id": "change_plan_0027", "prompt": "Hey, How do I change my subscription plan please?"}
+{"workload": "support", "intent_id": "refund_policy_0147", "prompt": "Can I get a refund please?"}
+{"workload": "support", "intent_id": "refund_policy_0191", "prompt": "Refund rules and timeline?"}
+{"workload": "support", "intent_id": "account_delete_0095", "prompt": "How do I delete my account please?"}
+{"workload": "support", "intent_id": "invoice_download_0157", "prompt": "Where do I find invoices?"}
+{"workload": "support", "intent_id": "account_delete_0072", "prompt": "Hey, Can you erase my account?"}
+{"workload": "support", "intent_id": "account_delete_0057", "prompt": "Can you erase my account?"}
+{"workload": "support", "intent_id": "account_delete_0173", "prompt": "Can you erase my account please?"}
+{"workload": "support", "intent_id": "account_delete_0146", "prompt": "Delete account steps please?"}
+{"workload": "support", "intent_id": "refund_policy_0025", "prompt": "Refund rules and timeline?"}
+{"workload": "support", "intent_id": "password_reset_0059", "prompt": "How do I reset my password please?"}
+{"workload": "support", "intent_id": "refund_policy_0046", "prompt": "Can I get a refund please?"}
+{"workload": "support", "intent_id": "account_delete_0018", "prompt": "How do I delete my account?"}
+{"workload": "support", "intent_id": "password_reset_0153", "prompt": "Password reset steps?"}
+{"workload": "support", "intent_id": "invoice_download_0154", "prompt": "How can I download my invoice?"}
+{"workload": "support", "intent_id": "refund_policy_0169", "prompt": "Hey, What is your refund policy please?"}
+{"workload": "support", "intent_id": "refund_policy_0039", "prompt": "How do refunds work?"}
+{"workload": "support", "intent_id": "change_plan_0160", "prompt": "Downgrade subscription please?"}
+{"workload": "support", "intent_id": "account_delete_0102", "prompt": "Remove my profile please?"}
+{"workload": "support", "intent_id": "invoice_download_0074", "prompt": "How can I download my invoice?"}
+{"workload": "support", "intent_id": "invoice_download_0170", "prompt": "Hey, How do I access billing invoices?"}
+{"workload": "support", "intent_id": "password_reset_0183", "prompt": "How do I reset my password?"}
+{"workload": "support", "intent_id": "invoice_download_0022", "prompt": "Where do I find invoices?"}
+{"workload": "support", "intent_id": "change_plan_0135", "prompt": "Change pricing tier"}
+{"workload": "support", "intent_id": "invoice_download_0038", "prompt": "I need my invoice PDF"}
+{"workload": "support", "intent_id": "change_plan_0065", "prompt": "Change pricing tier please?"}
+{"workload": "support", "intent_id": "refund_policy_0047", "prompt": "Hey, How do refunds work?"}
+{"workload": "support", "intent_id": "change_plan_0036", "prompt": "Upgrade my plan please?"}
+{"workload": "support", "intent_id": "password_reset_0142", "prompt": "I forgot my password. What can I do?"}
+{"workload": "support", "intent_id": "account_delete_0017", "prompt": "Delete account steps please?"}
+{"workload": "support", "intent_id": "invoice_download_0196", "prompt": "Where do I find invoices?"}
+{"workload": "support", "intent_id": "change_plan_0175", "prompt": "Upgrade my plan please?"}
+{"workload": "support", "intent_id": "change_plan_0194", "prompt": "Upgrade my plan"}
+{"workload": "support", "intent_id": "change_plan_0063", "prompt": "Change pricing tier please?"}
+{"workload": "support", "intent_id": "password_reset_0190", "prompt": "How do I reset my password?"}
+{"workload": "support", "intent_id": "refund_policy_0116", "prompt": "Can I get a refund please?"}
+{"workload": "support", "intent_id": "account_delete_0174", "prompt": "Can you erase my account please?"}
+{"workload": "support", "intent_id": "password_reset_0134", "prompt": "Help me change my account password please?"}
+{"workload": "support", "intent_id": "change_plan_0188", "prompt": "Switch to annual billing"}
+{"workload": "support", "intent_id": "refund_policy_0169", "prompt": "Refund rules and timeline?"}
+{"workload": "support", "intent_id": "password_reset_0150", "prompt": "Help me change my account password"}
+{"workload": "support", "intent_id": "invoice_download_0164", "prompt": "How can I download my invoice?"}
+{"workload": "support", "intent_id": "change_plan_0111", "prompt": "How do I change my subscription plan please?"}
+{"workload": "support", "intent_id": "account_delete_0018", "prompt": "Hey, Delete account steps"}
+{"workload": "support", "intent_id": "change_plan_0105", "prompt": "How do I change my subscription plan please?"}
+{"workload": "support", "intent_id": "invoice_download_0138", "prompt": "How do I access billing invoices?"}
+{"workload": "support", "intent_id": "refund_policy_0025", "prompt": "What is your refund policy please?"}
+{"workload": "support", "intent_id": "password_reset_0153", "prompt": "Help me change my account password"}
+{"workload": "support", "intent_id": "refund_policy_0025", "prompt": "Do you offer refunds for subscriptions?"}
+{"workload": "support", "intent_id": "refund_policy_0043", "prompt": "How do refunds work?"}
+{"workload": "support", "intent_id": "account_delete_0104", "prompt": "Remove my profile"}
+{"workload": "support", "intent_id": "refund_policy_0124", "prompt": "How do refunds work?"}
+{"workload": "support", "intent_id": "password_reset_0082", "prompt": "Hey, Help me change my account password"}
+{"workload": "support", "intent_id": "refund_policy_0050", "prompt": "How do refunds work please?"}
+{"workload": "support", "intent_id": "password_reset_0109", "prompt": "Hey, Password reset steps?"}
+{"workload": "support", "intent_id": "account_delete_0173", "prompt": "How do I delete my account?"}
+{"workload": "support", "intent_id": "refund_policy_0192", "prompt": "Can I get a refund?"}
+{"workload": "support", "intent_id": "change_plan_0180", "prompt": "How do I change my subscription plan?"}
+{"workload": "support", "intent_id": "invoice_download_0122", "prompt": "How can I download my invoice please?"}
+{"workload": "support", "intent_id": "invoice_download_0053", "prompt": "I need my invoice PDF"}
+{"workload": "support", "intent_id": "password_reset_0144", "prompt": "Help me change my account password"}
+{"workload": "support", "intent_id": "invoice_download_0026", "prompt": "How do I access billing invoices?"}
+{"workload": "support", "intent_id": "password_reset_0178", "prompt": "Hey, I forgot my password. What can I do?"}
+{"workload": "support", "intent_id": "refund_policy_0092", "prompt": "Do you offer refunds for subscriptions?"}
+{"workload": "support", "intent_id": "refund_policy_0046", "prompt": "How do refunds work please?"}
+{"workload": "support", "intent_id": "account_delete_0041", "prompt": "Can you erase my account?"}
+{"workload": "support", "intent_id": "password_reset_0103", "prompt": "I forgot my password. What can I do?"}
+{"workload": "support", "intent_id": "change_plan_0097", "prompt": "Downgrade subscription please?"}
+{"workload": "support", "intent_id": "change_plan_0060", "prompt": "Switch to annual billing"}
+{"workload": "support", "intent_id": "account_delete_0042", "prompt": "Delete account steps"}
+{"workload": "support", "intent_id": "change_plan_0118", "prompt": "Switch to annual billing"}
+{"workload": "support", "intent_id": "change_plan_0128", "prompt": "Switch to annual billing please?"}
+{"workload": "support", "intent_id": "password_reset_0077", "prompt": "How do I reset my password?"}
+{"workload": "support", "intent_id": "password_reset_0082", "prompt": "How to reset my login password please?"}
+{"workload": "support", "intent_id": "refund_policy_0147", "prompt": "Hey, Refund rules and timeline?"}
+{"workload": "support", "intent_id": "invoice_download_0044", "prompt": "Where do I find invoices?"}
+{"workload": "support", "intent_id": "account_delete_0198", "prompt": "Hey, Delete account steps"}
+{"workload": "support", "intent_id": "refund_policy_0075", "prompt": "Can I get a refund?"}
+{"workload": "support", "intent_id": "password_reset_0178", "prompt": "Help me change my account password please?"}
+{"workload": "support", "intent_id": "account_delete_0049", "prompt": "How do I delete my account please?"}
+{"workload": "support", "intent_id": "password_reset_0167", "prompt": "Password reset steps?"}
+{"workload": "support", "intent_id": "invoice_download_0090", "prompt": "Can I get an invoice for last month?"}
+{"workload": "support", "intent_id": "invoice_download_0113", "prompt": "Can I get an invoice for last month please?"}
+{"workload": "support", "intent_id": "invoice_download_0026", "prompt": "How can I download my invoice?"}
+{"workload": "support", "intent_id": "invoice_download_0196", "prompt": "How do I access billing invoices?"}
+{"workload": "support", "intent_id": "change_plan_0111", "prompt": "Downgrade subscription"}
+{"workload": "support", "intent_id": "invoice_download_0055", "prompt": "Where do I find invoices?"}
+{"workload": "support", "intent_id": "account_delete_0193", "prompt": "Delete account steps"}
+{"workload": "support", "intent_id": "account_delete_0018", "prompt": "Can you erase my account?"}
+{"workload": "support", "intent_id": "invoice_download_0026", "prompt": "I need my invoice PDF"}
+{"workload": "support", "intent_id": "password_reset_0144", "prompt": "Hey, Password reset steps please?"}
+{"workload": "support", "intent_id": "account_delete_0049", "prompt": "Hey, Remove my profile please?"}
+{"workload": "support", "intent_id": "invoice_download_0031", "prompt": "How do I access billing invoices?"}
+{"workload": "support", "intent_id": "invoice_download_0164", "prompt": "How do I access billing invoices?"}
+{"workload": "support", "intent_id": "password_reset_0069", "prompt": "How to reset my login password?"}
+{"workload": "support", "intent_id": "invoice_download_0005", "prompt": "How can I download my invoice please?"}
+{"workload": "support", "intent_id": "refund_policy_0136", "prompt": "What is your refund policy?"}
+{"workload": "support", "intent_id": "account_delete_0057", "prompt": "Hey, How do I delete my account please?"}
+{"workload": "support", "intent_id": "change_plan_0007", "prompt": "How do I change my subscription plan please?"}
+{"workload": "support", "intent_id": "password_reset_0089", "prompt": "I forgot my password. What can I do?"}
+{"workload": "support", "intent_id": "password_reset_0048", "prompt": "Password reset steps?"}
+{"workload": "support", "intent_id": "password_reset_0070", "prompt": "Password reset steps please?"}
+{"workload": "support", "intent_id": "invoice_download_0058", "prompt": "How can I download my invoice please?"}
+{"workload": "support", "intent_id": "password_reset_0187", "prompt": "Password reset steps please?"}
+{"workload": "support", "intent_id": "refund_policy_0039", "prompt": "Hey, What is your refund policy?"}
+{"workload": "support", "intent_id": "refund_policy_0079", "prompt": "Can I get a refund please?"}
+{"workload": "support", "intent_id": "refund_policy_0050", "prompt": "What is your refund policy please?"}
+{"workload": "support", "intent_id": "invoice_download_0113", "prompt": "I need my invoice PDF"}
+{"workload": "support", "intent_id": "change_plan_0071", "prompt": "Switch to annual billing please?"}
+{"workload": "support", "intent_id": "account_delete_0086", "prompt": "Remove my profile"}
+{"workload": "support", "intent_id": "refund_policy_0025", "prompt": "Can I get a refund?"}
+{"workload": "support", "intent_id": "change_plan_0013", "prompt": "Hey, Downgrade subscription"}
+{"workload": "support", "intent_id": "invoice_download_0133", "prompt": "Hey, Where do I find invoices?"}
+{"workload": "support", "intent_id": "password_reset_0082", "prompt": "Password reset steps?"}
+{"workload": "support", "intent_id": "invoice_download_0170", "prompt": "Where do I find invoices?"}
+{"workload": "support", "intent_id": "change_plan_0181", "prompt": "Change pricing tier"}
+{"workload": "support", "intent_id": "password_reset_0109", "prompt": "Hey, I forgot my password. What can I do please?"}
+{"workload": "support", "intent_id": "invoice_download_0068", "prompt": "Can I get an invoice for last month?"}
+{"workload": "support", "intent_id": "account_delete_0023", "prompt": "Hey, Remove my profile"}
+{"workload": "support", "intent_id": "invoice_download_0074", "prompt": "Where do I find invoices?"}
+{"workload": "support", "intent_id": "password_reset_0115", "prompt": "Hey, How do I reset my password please?"}
+{"workload": "support", "intent_id": "change_plan_0180", "prompt": "Switch to annual billing please?"}
+{"workload": "support", "intent_id": "password_reset_0059", "prompt": "Password reset steps?"}
+{"workload": "support", "intent_id": "refund_policy_0001", "prompt": "How do refunds work please?"}
+{"workload": "support", "intent_id": "invoice_download_0038", "prompt": "Hey, Where do I find invoices please?"}
+{"workload": "support", "intent_id": "password_reset_0077", "prompt": "Hey, Help me change my account password"}
+{"workload": "support", "intent_id": "refund_policy_0073", "prompt": "Can I get a refund?"}
+{"workload": "support", "intent_id": "change_plan_0188", "prompt": "Upgrade my plan please?"}
+{"workload": "support", "intent_id": "password_reset_0178", "prompt": "How do I reset my password please?"}
+{"workload": "support", "intent_id": "account_delete_0017", "prompt": "Can you erase my account please?"}
+{"workload": "support", "intent_id": "account_delete_0049", "prompt": "Can you erase my account?"}
+{"workload": "support", "intent_id": "account_delete_0162", "prompt": "Hey, Close my account permanently"}
+{"workload": "support", "intent_id": "refund_policy_0004", "prompt": "How do refunds work?"}
+{"workload": "support", "intent_id": "account_delete_0099", "prompt": "Hey, Close my account permanently"}
+{"workload": "support", "intent_id": "refund_policy_0145", "prompt": "Do you offer refunds for subscriptions?"}
+{"workload": "support", "intent_id": "refund_policy_0081", "prompt": "Do you offer refunds for subscriptions?"}
+{"workload": "support", "intent_id": "change_plan_0063", "prompt": "Upgrade my plan"}
+{"workload": "support", "intent_id": "refund_policy_0084", "prompt": "Do you offer refunds for subscriptions please?"}
+{"workload": "support", "intent_id": "invoice_download_0045", "prompt": "Where do I find invoices please?"}
+{"workload": "support", "intent_id": "change_plan_0119", "prompt": "Change pricing tier please?"}
+{"workload": "support", "intent_id": "refund_policy_0147", "prompt": "What is your refund policy?"}
+{"workload": "support", "intent_id": "invoice_download_0138", "prompt": "Where do I find invoices?"}
+{"workload": "support", "intent_id": "refund_policy_0079", "prompt": "Refund rules and timeline?"}
+{"workload": "support", "intent_id": "invoice_download_0138", "prompt": "Hey, Can I get an invoice for last month?"}
+{"workload": "support", "intent_id": "account_delete_0049", "prompt": "Delete account steps"}
+{"workload": "support", "intent_id": "change_plan_0013", "prompt": "Switch to annual billing please?"}
+{"workload": "support", "intent_id": "refund_policy_0101", "prompt": "How do refunds work please?"}
+{"workload": "support", "intent_id": "change_plan_0051", "prompt": "Change pricing tier"}
+{"workload": "support", "intent_id": "invoice_download_0199", "prompt": "How can I download my invoice?"}
+{"workload": "support", "intent_id": "refund_policy_0085", "prompt": "Do you offer refunds for subscriptions?"}
+{"workload": "support", "intent_id": "change_plan_0062", "prompt": "Hey, How do I change my subscription plan?"}
+{"workload": "support", "intent_id": "account_delete_0093", "prompt": "Close my account permanently please?"}
+{"workload": "support", "intent_id": "password_reset_0167", "prompt": "How do I reset my password?"}
+{"workload": "support", "intent_id": "invoice_download_0177", "prompt": "I need my invoice PDF"}
+{"workload": "support", "intent_id": "refund_policy_0001", "prompt": "Hey, Can I get a refund?"}
+{"workload": "support", "intent_id": "refund_policy_0064", "prompt": "How do refunds work?"}
+{"workload": "support", "intent_id": "password_reset_0035", "prompt": "Password reset steps?"}
+{"workload": "support", "intent_id": "change_plan_0175", "prompt": "How do I change my subscription plan please?"}
+{"workload": "support", "intent_id": "refund_policy_0120", "prompt": "Can I get a refund?"}
+{"workload": "support", "intent_id": "invoice_download_0032", "prompt": "Hey, Can I get an invoice for last month?"}
+{"workload": "support", "intent_id": "invoice_download_0009", "prompt": "How can I download my invoice?"}
+{"workload": "support", "intent_id": "invoice_download_0045", "prompt": "Can I get an invoice for last month please?"}
+{"workload": "support", "intent_id": "change_plan_0051", "prompt": "How do I change my subscription plan please?"}
+{"workload": "support", "intent_id": "password_reset_0048", "prompt": "Hey, How to reset my login password please?"}
+{"workload": "support", "intent_id": "refund_policy_0127", "prompt": "Hey, What is your refund policy?"}
+{"workload": "support", "intent_id": "change_plan_0181", "prompt": "Upgrade my plan please?"}
+{"workload": "support", "intent_id": "invoice_download_0090", "prompt": "How can I download my invoice?"}
+{"workload": "support", "intent_id": "refund_policy_0008", "prompt": "Refund rules and timeline?"}
+{"workload": "support", "intent_id": "refund_policy_0156", "prompt": "How do refunds work?"}
+{"workload": "support", "intent_id": "account_delete_0182", "prompt": "Can you erase my account please?"}
+{"workload": "support", "intent_id": "refund_policy_0081", "prompt": "Hey, What is your refund policy?"}
+{"workload": "support", "intent_id": "invoice_download_0045", "prompt": "How can I download my invoice please?"}
+{"workload": "support", "intent_id": "account_delete_0011", "prompt": "How do I delete my account?"}
+{"workload": "support", "intent_id": "refund_policy_0004", "prompt": "What is your refund policy?"}
+{"workload": "support", "intent_id": "account_delete_0078", "prompt": "Hey, Can you erase my account please?"}
+{"workload": "support", "intent_id": "refund_policy_0127", "prompt": "Do you offer refunds for subscriptions?"}
+{"workload": "support", "intent_id": "refund_policy_0092", "prompt": "What is your refund policy please?"}
+{"workload": "support", "intent_id": "refund_policy_0039", "prompt": "Can I get a refund?"}
+{"workload": "support", "intent_id": "change_plan_0071", "prompt": "Downgrade subscription please?"}
+{"workload": "support", "intent_id": "password_reset_0012", "prompt": "How to reset my login password?"}
+{"workload": "support", "intent_id": "change_plan_0119", "prompt": "Upgrade my plan please?"}
+{"workload": "support", "intent_id": "change_plan_0175", "prompt": "Switch to annual billing"}
+{"workload": "support", "intent_id": "refund_policy_0020", "prompt": "Can I get a refund?"}
+{"workload": "support", "intent_id": "change_plan_0128", "prompt": "Hey, Change pricing tier"}
+{"workload": "support", "intent_id": "change_plan_0054", "prompt": "Change pricing tier please?"}
+{"workload": "support", "intent_id": "account_delete_0006", "prompt": "Delete account steps"}
+{"workload": "support", "intent_id": "password_reset_0034", "prompt": "Help me change my account password"}
+{"workload": "support", "intent_id": "change_plan_0056", "prompt": "Hey, Downgrade subscription please?"}
+{"workload": "support", "intent_id": "account_delete_0072", "prompt": "Remove my profile please?"}
+{"workload": "support", "intent_id": "password_reset_0048", "prompt": "Help me change my account password"}
+{"workload": "support", "intent_id": "account_delete_0146", "prompt": "Remove my profile"}
+{"workload": "support", "intent_id": "refund_policy_0191", "prompt": "Can I get a refund?"}
+{"workload": "support", "intent_id": "invoice_download_0066", "prompt": "How can I download my invoice please?"}
+{"workload": "support", "intent_id": "change_plan_0118", "prompt": "Downgrade subscription"}
+{"workload": "support", "intent_id": "invoice_download_0157", "prompt": "Hey, How do I access billing invoices please?"}
+{"workload": "support", "intent_id": "invoice_download_0140", "prompt": "How can I download my invoice?"}
+{"workload": "support", "intent_id": "password_reset_0002", "prompt": "Password reset steps?"}
+{"workload": "support", "intent_id": "invoice_download_0133", "prompt": "How can I download my invoice please?"}
+{"workload": "support", "intent_id": "password_reset_0012", "prompt": "Help me change my account password"}
+{"workload": "support", "intent_id": "refund_policy_0163", "prompt": "Refund rules and timeline please?"}
+{"workload": "support", "intent_id": "account_delete_0165", "prompt": "How do I delete my account?"}
+{"workload": "support", "intent_id": "refund_policy_0088", "prompt": "Hey, What is your refund policy?"}
+{"workload": "support", "intent_id": "password_reset_0125", "prompt": "Password reset steps please?"}
+{"workload": "support", "intent_id": "account_delete_0095", "prompt": "Delete account steps"}
+{"workload": "support", "intent_id": "password_reset_0168", "prompt": "Password reset steps please?"}
+{"workload": "support", "intent_id": "account_delete_0100", "prompt": "Remove my profile please?"}
+{"workload": "support", "intent_id": "account_delete_0107", "prompt": "How do I delete my account please?"}
+{"workload": "support", "intent_id": "password_reset_0034", "prompt": "How to reset my login password?"}
+{"workload": "support", "intent_id": "invoice_download_0015", "prompt": "I need my invoice PDF"}
+{"workload": "support", "intent_id": "refund_policy_0020", "prompt": "How do refunds work?"}
+{"workload": "support", "intent_id": "invoice_download_0005", "prompt": "How do I access billing invoices?"}
+{"workload": "support", "intent_id": "account_delete_0198", "prompt": "Hey, Can you erase my account please?"}
+{"workload": "support", "intent_id": "account_delete_0104", "prompt": "Hey, Close my account permanently please?"}
+{"workload": "support", "intent_id": "account_delete_0155", "prompt": "Remove my profile"}
+{"workload": "support", "intent_id": "invoice_download_0106", "prompt": "How can I download my invoice?"}
+{"workload": "support", "intent_id": "invoice_download_0032", "prompt": "How can I download my invoice please?"}
+{"workload": "support", "intent_id": "change_plan_0029", "prompt": "Change pricing tier please?"}
+{"workload": "support", "intent_id": "refund_policy_0024", "prompt": "Hey, Refund rules and timeline?"}
+{"workload": "support", "intent_id": "invoice_download_0123", "prompt": "Where do I find invoices?"}
+{"workload": "support", "intent_id": "refund_policy_0084", "prompt": "What is your refund policy?"}
+{"workload": "support", "intent_id": "change_plan_0040", "prompt": "Hey, Change pricing tier"}
+{"workload": "support", "intent_id": "password_reset_0117", "prompt": "Help me change my account password please?"}
+{"workload": "support", "intent_id": "change_plan_0029", "prompt": "Downgrade subscription please?"}
+{"workload": "support", "intent_id": "change_plan_0105", "prompt": "Upgrade my plan please?"}
+{"workload": "support", "intent_id": "account_delete_0108", "prompt": "Can you erase my account please?"}
+{"workload": "support", "intent_id": "password_reset_0183", "prompt": "Hey, Password reset steps?"}
+{"workload": "support", "intent_id": "change_plan_0132", "prompt": "Downgrade subscription"}
+{"workload": "support", "intent_id": "password_reset_0178", "prompt": "Password reset steps?"}
+{"workload": "support", "intent_id": "change_plan_0054", "prompt": "Downgrade subscription please?"}
+{"workload": "support", "intent_id": "refund_policy_0116", "prompt": "What is your refund policy?"}
+{"workload": "support", "intent_id": "account_delete_0195", "prompt": "Can you erase my account?"}
+{"workload": "support", "intent_id": "invoice_download_0157", "prompt": "I need my invoice PDF"}
+{"workload": "support", "intent_id": "refund_policy_0101", "prompt": "Refund rules and timeline?"}
+{"workload": "support", "intent_id": "password_reset_0035", "prompt": "How to reset my login password?"}
+{"workload": "support", "intent_id": "change_plan_0040", "prompt": "Upgrade my plan please?"}
+{"workload": "support", "intent_id": "account_delete_0006", "prompt": "Hey, How do I delete my account?"}
+{"workload": "support", "intent_id": "refund_policy_0136", "prompt": "Hey, Refund rules and timeline?"}
+{"workload": "support", "intent_id": "password_reset_0003", "prompt": "Hey, How do I reset my password?"}
+{"workload": "support", "intent_id": "refund_policy_0120", "prompt": "What is your refund policy please?"}
+{"workload": "support", "intent_id": "refund_policy_0020", "prompt": "Hey, What is your refund policy?"}
+{"workload": "support", "intent_id": "password_reset_0172", "prompt": "Password reset steps please?"}
+{"workload": "support", "intent_id": "refund_policy_0081", "prompt": "How do refunds work?"}
+{"workload": "support", "intent_id": "change_plan_0062", "prompt": "Upgrade my plan please?"}
+{"workload": "support", "intent_id": "password_reset_0187", "prompt": "How to reset my login password?"}
+{"workload": "support", "intent_id": "invoice_download_0000", "prompt": "How do I access billing invoices please?"}
+{"workload": "support", "intent_id": "invoice_download_0113", "prompt": "Where do I find invoices?"}
+{"workload": "support", "intent_id": "change_plan_0141", "prompt": "Downgrade subscription please?"}
+{"workload": "support", "intent_id": "refund_policy_0145", "prompt": "How do refunds work?"}
+{"workload": "support", "intent_id": "change_plan_0062", "prompt": "Switch to annual billing please?"}
+{"workload": "support", "intent_id": "invoice_download_0000", "prompt": "I need my invoice PDF please?"}
+{"workload": "support", "intent_id": "invoice_download_0161", "prompt": "Hey, Where do I find invoices please?"}
+{"workload": "support", "intent_id": "password_reset_0002", "prompt": "Hey, How do I reset my password?"}
+{"workload": "support", "intent_id": "refund_policy_0084", "prompt": "Can I get a refund?"}
+{"workload": "support", "intent_id": "change_plan_0141", "prompt": "Hey, Change pricing tier please?"}
+{"workload": "support", "intent_id": "refund_policy_0008", "prompt": "Do you offer refunds for subscriptions please?"}
+{"workload": "support", "intent_id": "password_reset_0148", "prompt": "Hey, How do I reset my password please?"}
+{"workload": "support", "intent_id": "change_plan_0130", "prompt": "Hey, Upgrade my plan"}
+{"workload": "support", "intent_id": "password_reset_0129", "prompt": "I forgot my password. What can I do?"}
+{"workload": "support", "intent_id": "refund_policy_0116", "prompt": "Do you offer refunds for subscriptions?"}
+{"workload": "support", "intent_id": "account_delete_0072", "prompt": "Close my account permanently"}
+{"workload": "support", "intent_id": "account_delete_0021", "prompt": "Can you erase my account?"}
+{"workload": "support", "intent_id": "invoice_download_0123", "prompt": "I need my invoice PDF"}
+{"workload": "support", "intent_id": "password_reset_0115", "prompt": "Help me change my account password"}
+{"workload": "support", "intent_id": "password_reset_0129", "prompt": "How do I reset my password please?"}
+{"workload": "support", "intent_id": "password_reset_0012", "prompt": "I forgot my password. What can I do?"}
+{"workload": "support", "intent_id": "refund_policy_0037", "prompt": "Can I get a refund?"}

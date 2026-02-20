@@ -59,3 +59,4 @@ exclude = [
 [tool.setuptools.packages.find]
 where = ["."]
 include = ["promptcache*"]
+exclude = ["bench*"]
