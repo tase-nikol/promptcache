@@ -19,7 +19,7 @@ dependencies = [
 
 
 [project.urls]
-Repository = ""
+Repository = "https://github.com/tase-nikol/promptcache"
 
 [project.optional-dependencies]
 openai = ["openai>=1.0.0"]
